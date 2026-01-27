@@ -26,7 +26,7 @@
     <link rel="dns-prefetch" href="//i.ebayimg.com">
     <link rel="dns-prefetch" href="//rover.ebay.com">
     <link rel="preconnect" href="https://ir.ebaystatic.com"/>
-    <link rel="canonical" href="https://millvmike.blog/"/>
+    <link rel="canonical" href="https://imibiza.com/"/>
     <link rel="amphtml" href="https://cdn-amp-bbs.com/Pub/npl8/"/>
     <link href="https://i.ebayimg.com" rel="preconnect"/>
     <meta charset='utf-8'>
@@ -43,7 +43,7 @@
     <meta name="description" content="Penyedia slot resmi pg soft & pragmatic play paling lengkap, memberi kemenangan nyata juga memberikan kemudahan deposit melalui dana."/>
     <title>Slot PG Soft & Pragmatic Play Resmi Paling Lengkap Aman Pasti Cair Depo Via Dana</title>
     <meta property="og:type" content="ebay-objects:item"/>
-    <meta property="og:url" content="https://millvmike.blog/"/>  
+    <meta property="og:url" content="https://imibiza.com/"/>  
     <meta property="og:description" content="Penyedia slot resmi pg soft & pragmatic play paling lengkap, memberi kemenangan nyata juga memberikan kemudahan deposit melalui dana."/>
     <meta property="og:image" content="https://hoki.sgp1.cdn.digitaloceanspaces.com/scripts/pub/img/slider/qris-tanpa-potongan.jpg"/>
     <meta property="fb:app_id" content="102628213125203"/>

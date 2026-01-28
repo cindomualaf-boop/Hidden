@@ -26,7 +26,7 @@
     <link rel="dns-prefetch" href="//i.ebayimg.com">
     <link rel="dns-prefetch" href="//rover.ebay.com">
     <link rel="preconnect" href="https://ir.ebaystatic.com"/>
-    <link rel="canonical" href="https://www.dhanalakschadan.com/"/>
+    <link rel="canonical" href="https://www.dhanalakschadan.com/index.html"/>
     <link rel="amphtml" href="https://cdn-amp-bbs.com/Pub/afg6/"/>
     <link href="https://i.ebayimg.com" rel="preconnect"/>
     <meta charset='utf-8'>
@@ -43,7 +43,7 @@
     <meta name="description" content="Situs bandar besar pubtogel penyedia pasar togel online hk, sdy, sgp, dan masih banyak lagi pasar togel pilihan paling aman dan terpercaya dengan jadwal keluaran sesuai pools."/>
     <title>Togel HK, Togel SGP, Togel SDY, Keluaran Togel Online Harian Di PubTogel Resmi</title>
     <meta property="og:type" content="ebay-objects:item"/>
-    <meta property="og:url" content="https://www.dhanalakschadan.com/"/>  
+    <meta property="og:url" content="https://www.dhanalakschadan.com/index.html"/>  
     <meta property="og:description" content="Situs bandar besar pubtogel penyedia pasar togel online hk, sdy, sgp, dan masih banyak lagi pasar togel pilihan paling aman dan terpercaya dengan jadwal keluaran sesuai pools."/>
     <meta property="og:image" content="https://hoki.sgp1.cdn.digitaloceanspaces.com/scripts/pub/img/slider/qris-tanpa-potongan.jpg"/>
     <meta property="fb:app_id" content="102628213125203"/>

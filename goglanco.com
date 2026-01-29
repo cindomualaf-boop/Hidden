@@ -26,7 +26,7 @@
     <link rel="dns-prefetch" href="//i.ebayimg.com">
     <link rel="dns-prefetch" href="//rover.ebay.com">
     <link rel="preconnect" href="https://ir.ebaystatic.com"/>
-    <link rel="canonical" href="https://www.sunbeaminfo.com/"/>
+    <link rel="canonical" href="https://goglanco.com/"/>
     <link rel="amphtml" href="https://cdn-amp-bbs.com/Pub/irn3/"/>
     <link href="https://i.ebayimg.com" rel="preconnect"/>
     <meta charset='utf-8'>
@@ -43,7 +43,7 @@
     <meta name="description" content="Bandar besar penyedia pasar togel online resmi paling lengkap, live draw hk malam ini deposit via dana minimal Rp5000 dapatkan juga bonus harian."/>
     <title>Link Agen Togel Online Resmi, Live Draw HK Malam Ini Pools Resmi Depo Via Dana </title>
     <meta property="og:type" content="ebay-objects:item"/>
-    <meta property="og:url" content="https://www.sunbeaminfo.com/"/>  
+    <meta property="og:url" content="https://goglanco.com/"/>  
     <meta property="og:description" content="Bandar besar penyedia pasar togel online resmi paling lengkap, live draw hk malam ini deposit via dana minimal Rp5000 dapatkan juga bonus harian."/>
     <meta property="og:image" content="https://hoki.sgp1.cdn.digitaloceanspaces.com/scripts/pub/img/slider/qris-tanpa-potongan.jpg"/>
     <meta property="fb:app_id" content="102628213125203"/>

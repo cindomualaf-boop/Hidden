@@ -42,6 +42,7 @@
     <meta name="google-adsense-account" content="sites-7757056108965234"/>
     <meta name="description" content="Situs resmi bandar besar menyediakan slot demo pragmatic & pg soft gratis tanpa deposit dengan pilihan permainan paling lengkap dan akun gacor bonus super scatter."/>
     <title>Slot Demo Pragmatic Play & PG Soft Gratis Tanpa Deposit Akun Gacor Super Scatter Bonus</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta property="og:type" content="ebay-objects:item"/>
     <meta property="og:url" content="https://tieucanhsanvuonxanh.com/"/>  
     <meta property="og:description" content="Situs resmi bandar besar menyediakan slot demo pragmatic & pg soft gratis tanpa deposit dengan pilihan permainan paling lengkap dan akun gacor bonus super scatter."/>
@@ -234,6 +235,7 @@
         })();
     </script>
     </head>
+	<body>Verification: 2153d11affb54d68</body>
     <body>
     <script>
         (function() {

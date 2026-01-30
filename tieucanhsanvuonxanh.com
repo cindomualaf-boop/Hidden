@@ -40,6 +40,7 @@
     <meta name="google-site-verification" content=" jAcZpbFh3dJ97ZMFaOKDxiNTIQFAHk34wS8OWW3Rjnw" />
     <meta name="robots" content="max-snippet:-1, max-image-preview:large"/>
     <meta name="google-adsense-account" content="sites-7757056108965234"/>
+	<meta name="yandex-verification" content="2153d11affb54d68" />
     <meta name="description" content="Situs resmi bandar besar menyediakan slot demo pragmatic & pg soft gratis tanpa deposit dengan pilihan permainan paling lengkap dan akun gacor bonus super scatter."/>
     <title>Slot Demo Pragmatic Play & PG Soft Gratis Tanpa Deposit Akun Gacor Super Scatter Bonus</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">

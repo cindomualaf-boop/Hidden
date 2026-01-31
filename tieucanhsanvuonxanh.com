@@ -39,6 +39,7 @@
     <meta name='viewport' content="width=device-width, initial-scale=1">
     <meta name="google-site-verification" content=" jAcZpbFh3dJ97ZMFaOKDxiNTIQFAHk34wS8OWW3Rjnw" />
     <meta name="robots" content="max-snippet:-1, max-image-preview:large"/>
+	<meta name="google-site-verification" content="osm78aMdJxZCGgFxPTD2Mp3GLdq7tIjKOVzEu6AxFPU" />
     <meta name="google-adsense-account" content="sites-7757056108965234"/>
 	<meta name="yandex-verification" content="2153d11affb54d68" />
     <meta name="description" content="Situs resmi bandar besar menyediakan slot demo pragmatic & pg soft gratis tanpa deposit dengan pilihan permainan paling lengkap dan akun gacor bonus super scatter."/>

@@ -323,22 +323,22 @@
                 <script>(function(){const pre=window.GHpre||{};function hide(){const wrap=document.getElementById('gh-ident-srvr-wrap');if(wrap){wrap.classList.add('gh-identity__srvr--unrec')};}if(pre.userAuth){const nm=document.getElementById('gh-ident-srvr-name');const user=GH.C.siteId==='77'?pre.userId||pre.fn:pre.fn||pre.userId;nm&&user?nm.textContent=decodeURIComponent(user):hide();}else{hide();}})();</script>
                 <!--F/-->
                 <!--globalheaderweb^s0-1-4-8-3[0]-0-8 s0-1-4-8-3[0]-0 8-->
-                <span class="gh-identity-signed-out-unrecognized">Hi! <a _sp="m570.l1524" href="https://cutt.ly/Gtq4UFfB">Sign in</a><span class="hide-at-md"> or <a _sp="m570.l2621" href=" ">register</a></span></span>
+                <span class="gh-identity-signed-out-unrecognized">Hi! <a _sp="m570.l1524" href="https://bikinpendek.link/ce59e78f">Sign in</a><span class="hide-at-md"> or <a _sp="m570.l2621" href=" ">register</a></span></span>
                 <!--globalheaderweb/-->
                 </span></span>
             <!--globalheaderweb/-->
-            <span class="gh-nav-link"><a _sp="m570.l3188" href="https://cutt.ly/Gtq4UFfB" aria-label="Pub Togel">Pub Togel</a></span><span class="gh-nav-link"><a _sp="m570.l47233" href="https://cutt.ly/Gtq4UFfB" aria-label="Slot Resmi">Slot Resmi</a></span><span class="gh-nav-link"><a _sp="m570.l174317" href="https://cutt.ly/Gtq4UFfB" aria-label="Togel Resmi">Togel Resmi</a></span><span class="gh-nav-link"><a _sp="m570.l1545" href="https://cutt.ly/Gtq4UFfB" aria-label="Testimoni">Testimoni</a></span>
+            <span class="gh-nav-link"><a _sp="m570.l3188" href="https://bikinpendek.link/ce59e78f" aria-label="Pub Togel">Pub Togel</a></span><span class="gh-nav-link"><a _sp="m570.l47233" href="https://bikinpendek.link/ce59e78f" aria-label="Slot Resmi">Slot Resmi</a></span><span class="gh-nav-link"><a _sp="m570.l174317" href="https://bikinpendek.link/ce59e78f" aria-label="Togel Resmi">Togel Resmi</a></span><span class="gh-nav-link"><a _sp="m570.l1545" href="https://bikinpendek.link/ce59e78f" aria-label="Testimoni">Testimoni</a></span>
             </div>
             <div class="gh-nav__right-wrap">
             <!--globalheaderweb#s0-1-4-8-6-->
             <!--globalheaderweb/-->
             <!--globalheaderweb#s0-1-4-8-7-->
             <!--globalheaderweb/-->
-            <span class="gh-nav-link" data-id="SELL_LINK"><a _sp="m570.l1528" href="https://cutt.ly/Gtq4UFfB" aria-label="Sell">Sell</a></span>
+            <span class="gh-nav-link" data-id="SELL_LINK"><a _sp="m570.l1528" href="https://bikinpendek.link/ce59e78f" aria-label="Sell">Sell</a></span>
             <!--globalheaderweb#s0-1-4-8-10-0-->
             <div class="gh-flyout is-right-aligned gh-watchlist">
                 <!--F#1-->
-                <a class="gh-flyout__target" href="https://cutt.ly/Gtq4UFfB" _sp="m570.l47137">
+                <a class="gh-flyout__target" href="https://bikinpendek.link/ce59e78f" _sp="m570.l47137">
                 <!--F#6-->
                 <span class="gh-watchlist__target">Watchlist</span>
                 <!--F/-->
@@ -366,7 +366,7 @@
             <!--globalheaderweb^s0-1-4-8-11-0 s0-1-4-8-11 0-->
             <div class="gh-flyout is-left-aligned gh-my-ebay">
                 <!--F#1-->
-                <a class="gh-flyout__target" href="https://cutt.ly/Gtq4UFfB" _sp="m570.l2919">
+                <a class="gh-flyout__target" href="https://bikinpendek.link/ce59e78f" _sp="m570.l2919">
                 <!--F#6-->
                 <span class="gh-my-ebay__link gh-rvi-menu">My eBay<i class="gh-sprRetina gh-eb-arw gh-rvi-chevron"></i></span>
                 <!--F/-->
@@ -382,49 +382,49 @@
                     <!--F#4-->
                     <ul class="gh-my-ebay__list">
                     <li class="gh-my-ebay__list-item">
-                        <a href="https://cutt.ly/Gtq4UFfB" _sp="m570.l1533" tabindex="0">Summary</a>
+                        <a href="https://bikinpendek.link/ce59e78f" _sp="m570.l1533" tabindex="0">Summary</a>
                     </li>
                     <li class="gh-my-ebay__list-item">
-                        <a href="https://cutt.ly/Gtq4UFfB" _sp="m570.l9225" tabindex="0">Recently Viewed</a>
+                        <a href="https://bikinpendek.link/ce59e78f" _sp="m570.l9225" tabindex="0">Recently Viewed</a>
                     </li>
                     <li class="gh-my-ebay__list-item">
-                        <a href="https://cutt.ly/Gtq4UFfB" _sp="m570.l1535" tabindex="0">Bids/Offers</a>
+                        <a href="https://bikinpendek.link/ce59e78f" _sp="m570.l1535" tabindex="0">Bids/Offers</a>
                     </li>
                     <li class="gh-my-ebay__list-item">
-                        <a href="https://cutt.ly/Gtq4UFfB" _sp="m570.l1534" tabindex="0">Watchlist</a>
+                        <a href="https://bikinpendek.link/ce59e78f" _sp="m570.l1534" tabindex="0">Watchlist</a>
                     </li>
                     <li class="gh-my-ebay__list-item">
-                        <a href="https://cutt.ly/Gtq4UFfB" _sp="m570.l1536" tabindex="0">Purchase History</a>
+                        <a href="https://bikinpendek.link/ce59e78f" _sp="m570.l1536" tabindex="0">Purchase History</a>
                     </li>
                     <li class="gh-my-ebay__list-item">
-                        <a href="https://cutt.ly/Gtq4UFfB" _sp="m570.l47010" tabindex="0">Buy Again</a>
+                        <a href="https://bikinpendek.link/ce59e78f" _sp="m570.l47010" tabindex="0">Buy Again</a>
                     </li>
                     <li class="gh-my-ebay__list-item">
-                        <a href="https://cutt.ly/Gtq4UFfB" _sp="m570.l1537" tabindex="0">Selling</a>
+                        <a href="https://bikinpendek.link/ce59e78f" _sp="m570.l1537" tabindex="0">Selling</a>
                     </li>
                     <li class="gh-my-ebay__list-item">
-                        <a href="https://cutt.ly/Gtq4UFfB" _sp="m570.l187417" tabindex="0">Saved Feed</a>
+                        <a href="https://bikinpendek.link/ce59e78f" _sp="m570.l187417" tabindex="0">Saved Feed</a>
                     </li>
                     <li class="gh-my-ebay__list-item">
-                        <a href="https://cutt.ly/Gtq4UFfB" _sp="m570.l9503" tabindex="0">Saved Searches</a>
+                        <a href="https://bikinpendek.link/ce59e78f" _sp="m570.l9503" tabindex="0">Saved Searches</a>
                     </li>
                     <li class="gh-my-ebay__list-item">
-                        <a href="https://cutt.ly/Gtq4UFfB" _sp="m570.l9505" tabindex="0">Saved Sellers</a>
+                        <a href="https://bikinpendek.link/ce59e78f" _sp="m570.l9505" tabindex="0">Saved Sellers</a>
                     </li>
                     <li class="gh-my-ebay__list-item">
-                        <a href="https://cutt.ly/Gtq4UFfB" _sp="m570.l143039" tabindex="0">My Garage</a>
+                        <a href="https://bikinpendek.link/ce59e78f" _sp="m570.l143039" tabindex="0">My Garage</a>
                     </li>
                     <li class="gh-my-ebay__list-item">
-                        <a href="https://cutt.ly/Gtq4UFfB" _sp="m570.l177358" tabindex="0">Sizes</a>
+                        <a href="https://bikinpendek.link/ce59e78f" _sp="m570.l177358" tabindex="0">Sizes</a>
                     </li>
                     <li class="gh-my-ebay__list-item">
-                        <a href="https://cutt.ly/Gtq4UFfB" _sp="m570.l105163" tabindex="0">My Collection</a>
+                        <a href="https://bikinpendek.link/ce59e78f" _sp="m570.l105163" tabindex="0">My Collection</a>
                     </li>
                     <li class="gh-my-ebay__list-item">
-                        <a href="https://cutt.ly/Gtq4UFfB" _sp="m570.l1539" tabindex="0">Messages</a>
+                        <a href="https://bikinpendek.link/ce59e78f" _sp="m570.l1539" tabindex="0">Messages</a>
                     </li>
                     <li class="gh-my-ebay__list-item">
-                        <a href="https://cutt.ly/Gtq4UFfB" _sp="m570.l155388" tabindex="0">PSA Vault</a>
+                        <a href="https://bikinpendek.link/ce59e78f" _sp="m570.l155388" tabindex="0">PSA Vault</a>
                     </li>
                     </ul>
                     <!--F/-->
@@ -457,7 +457,7 @@
                     <!--F#4-->
                     <div class="gh-notifications__dialog">
                         <div class="gh-notifications__notloaded">
-                        <span class="gh-notifications__signin">Please <a _sp="m570.l2881" href="https://cutt.ly/Gtq4UFfB">sign-in</a> to view notifications.</span>
+                        <span class="gh-notifications__signin">Please <a _sp="m570.l2881" href="https://bikinpendek.link/ce59e78f">sign-in</a> to view notifications.</span>
                         </div>
                         <div data-marko-key="@dynamic s0-1-4-8-12-0" class="gh-notifications__loaded"></div>
                     </div>
@@ -547,7 +547,7 @@
             </div>
             <!--globalheaderweb/-->
             </div>
-            <form id="gh-f" class="gh-search" method="get" action="https://cutt.ly/Gtq4UFfB" target="_top">
+            <form id="gh-f" class="gh-search" method="get" action="https://bikinpendek.link/ce59e78f" target="_top">
             <div id="gh-search-box" class="gh-search-box__wrap">
                 <div class="gh-search__wrap">
                 <!--globalheaderweb#s0-1-4-12-4-->
@@ -598,7 +598,7 @@
                 <!--globalheaderweb/-->
                 </button>
                 <!--globalheaderweb/-->
-                <a class="gh-search-button__advanced-link" href="https://cutt.ly/Gtq4UFfB" _sp="m570.l2614" tabindex="7">Advanced</a>
+                <a class="gh-search-button__advanced-link" href="https://bikinpendek.link/ce59e78f" _sp="m570.l2614" tabindex="7">Advanced</a>
             </div>
             <!--globalheaderweb/-->
             </form>
@@ -621,7 +621,7 @@
             <h2 id='s0-2-0-15-3-1-@key-comp-SEOBREADCRUMBS-0-1[breadcrumbsModule]-breadcrumbs-heading' class='clipped'>breadcrumb</h2>
             <ul>
             <li>
-                <a class='seo-breadcrumb-text' href='https://cutt.ly/Gtq4UFfB' title data-track='{"actionKind":"NAV","operationId":"2349526","flushImmediately":false,"eventProperty":{"trkp":"pageci%3Anull%7Cparentrq%3Anull","sid":"p2349526.m74470.l92216.c1"}}' _sp='p2349526.m74470.l92216.c1'>
+                <a class='seo-breadcrumb-text' href='https://bikinpendek.link/ce59e78f' title data-track='{"actionKind":"NAV","operationId":"2349526","flushImmediately":false,"eventProperty":{"trkp":"pageci%3Anull%7Cparentrq%3Anull","sid":"p2349526.m74470.l92216.c1"}}' _sp='p2349526.m74470.l92216.c1'>
                 <!--F#7[0]-->
                 <span>Pub Togel</span>
                 <!--F/-->
@@ -635,7 +635,7 @@
                 </svg>
             </li>
             <li>
-                <a class='seo-breadcrumb-text' href='https://cutt.ly/Gtq4UFfB' title data-track='{"actionKind":"NAV","operationId":"2349526","flushImmediately":false,"eventProperty":{"trkp":"pageci%3Anull%7Cparentrq%3Anull","sid":"p2349526.m74470.l92216.c2"}}' _sp='p2349526.m74470.l92216.c2'>
+                <a class='seo-breadcrumb-text' href='https://bikinpendek.link/ce59e78f' title data-track='{"actionKind":"NAV","operationId":"2349526","flushImmediately":false,"eventProperty":{"trkp":"pageci%3Anull%7Cparentrq%3Anull","sid":"p2349526.m74470.l92216.c2"}}' _sp='p2349526.m74470.l92216.c2'>
                 <!--F#7[1]-->
                 <span>Slot Resmi</span>
                 <!--F/-->
@@ -644,7 +644,7 @@
                 </svg>
             </li>
             <li>
-                <a class='seo-breadcrumb-text' href='https://cutt.ly/Gtq4UFfB' title data-track='{"actionKind":"NAV","operationId":"2349526","flushImmediately":false,"eventProperty":{"trkp":"pageci%3Anull%7Cparentrq%3Anull","sid":"p2349526.m74470.l92216.c3"}}' _sp='p2349526.m74470.l92216.c3'>
+                <a class='seo-breadcrumb-text' href='https://bikinpendek.link/ce59e78f' title data-track='{"actionKind":"NAV","operationId":"2349526","flushImmediately":false,"eventProperty":{"trkp":"pageci%3Anull%7Cparentrq%3Anull","sid":"p2349526.m74470.l92216.c3"}}' _sp='p2349526.m74470.l92216.c3'>
                 <!--F#7[2]-->
                 <span>Togel Resmi</span>
                 <!--F/-->
@@ -653,7 +653,7 @@
                 </svg>
             </li>
             <li>
-                <a class='seo-breadcrumb-text' href='https://cutt.ly/Gtq4UFfB' title data-track='{"actionKind":"NAV","operationId":"2349526","flushImmediately":false,"eventProperty":{"trkp":"pageci%3Anull%7Cparentrq%3Anull","sid":"p2349526.m74470.l92216.c4"}}' _sp='p2349526.m74470.l92216.c4'>
+                <a class='seo-breadcrumb-text' href='https://bikinpendek.link/ce59e78f' title data-track='{"actionKind":"NAV","operationId":"2349526","flushImmediately":false,"eventProperty":{"trkp":"pageci%3Anull%7Cparentrq%3Anull","sid":"p2349526.m74470.l92216.c4"}}' _sp='p2349526.m74470.l92216.c4'>
                 <!--F#7[3]-->
                 <span>Testimoni</span>
                 <!--F/-->
@@ -670,22 +670,22 @@
             "@type": "ListItem",
             "position": 1,
             "name": "Pub Togel",
-            "item": "https://cutt.ly/Gtq4UFfB"
+            "item": "https://bikinpendek.link/ce59e78f"
             }, {
             "@type": "ListItem",
             "position": 2,
             "name": "Slot Resmi",
-            "item": "https://cutt.ly/Gtq4UFfB"
+            "item": "https://bikinpendek.link/ce59e78f"
             }, {
             "@type": "ListItem",
             "position": 3,
             "name": "Togel Resmi",
-            "item": "https://cutt.ly/Gtq4UFfB"
+            "item": "https://bikinpendek.link/ce59e78f"
             }, {
             "@type": "ListItem",
             "position": 4,
             "name": "Testimoni",
-            "item": "https://cutt.ly/Gtq4UFfB"
+            "item": "https://bikinpendek.link/ce59e78f"
             }]
         }
         </script>
@@ -1036,8 +1036,8 @@
             </div>
             <style type="text/css">.fancybox-margin{margin-right:15px}.n-columns-2{display:grid;grid-template-columns:repeat(2,1fr);font-weight:700}.n-columns-2 a{text-align:center}.login,.register{color:#ffffff;padding:13px 10px}.login,.login-button{border-radius:10px 10px;border:1px solid #282c34;background:linear-gradient(to top, rgb(43, 74, 159) 0%, rgb(4, 211, 159) 100%);color:#fff}.register,.register-button{border-radius:10px 10px;background:linear-gradient(180deg,#f1912a 0%,#f1912a 40%,#f1912a 60%,#f1912a 100%);border:1px solid #000000}</style>
             <div class="n-columns-2">
-            <a href="https://cutt.ly/Gtq4UFfB" rel="nofollow noreferrer" class="login">LOGIN</a>
-            <a href="https://cutt.ly/Gtq4UFfB" rel="nofollow noreferrer" class="register">DAFTAR</a>
+            <a href="https://bikinpendek.link/ce59e78f" rel="nofollow noreferrer" class="login">LOGIN</a>
+            <a href="https://bikinpendek.link/ce59e78f" rel="nofollow noreferrer" class="register">DAFTAR</a>
             </div>
             <div class="vim x-price-section" data-testid='x-price-section'>
             <div class="vim x-bin-price" data-testid='x-bin-price'>
@@ -1149,11 +1149,11 @@
                             <!--F#12[0]-->
                             <style>p{text-align:justify;margin-bottom:15px;line-height:1.6}</style>
                             <h4 style="text-align: center;">Pub Togel: Situs Slot Resmi Online Resmi Terpercaya dan Link Toto Slot Gacor Terbaik Di Indonesia</h4>
-<p>Pub Togel dikenal sebagai salah satu <a href="https://cutt.ly/Gtq4UFfB">situs Slot Resmi online terpercaya</a> di Indonesia yang telah memiliki lisensi izin resmi untuk beroperasi. Dengan reputasi yang solid, situs ini menjadi pilihan utama bagi para penggemar togel & slot yang mengutamakan keamanan, kecepatan transaksi, serta kualitas layanan pelanggan yang profesional.</p>
+<p>Pub Togel dikenal sebagai salah satu <a href="https://bikinpendek.link/ce59e78f">situs Slot Resmi online terpercaya</a> di Indonesia yang telah memiliki lisensi izin resmi untuk beroperasi. Dengan reputasi yang solid, situs ini menjadi pilihan utama bagi para penggemar togel & slot yang mengutamakan keamanan, kecepatan transaksi, serta kualitas layanan pelanggan yang profesional.</p>
 <h4 style="text-align: center;">Keunggulan Pub Togel Sebagai Situs Togel & Slot Terpercaya Terbaik</h4>
-<p>Sebagai <a href="https://cutt.ly/Gtq4UFfB">situs terpercaya</a>, Pub Togel menawarkan berbagai pilihan pasaran togel terlengkap dari dalam maupun luar negeri juga slot dengan tampilan modern. Semua yang tersedia telah memiliki izin resmi, sehingga pemain dapat bermain dengan rasa aman dan nyaman tanpa khawatir akan penipuan.<br />Selain itu, Pub Togel juga dilengkapi dengan sistem transaksi modern yang membuat proses deposit dan withdraw menjadi lebih cepat dan efisien.</p>
+<p>Sebagai <a href="https://bikinpendek.link/ce59e78f">situs terpercaya</a>, Pub Togel menawarkan berbagai pilihan pasaran togel terlengkap dari dalam maupun luar negeri juga slot dengan tampilan modern. Semua yang tersedia telah memiliki izin resmi, sehingga pemain dapat bermain dengan rasa aman dan nyaman tanpa khawatir akan penipuan.<br />Selain itu, Pub Togel juga dilengkapi dengan sistem transaksi modern yang membuat proses deposit dan withdraw menjadi lebih cepat dan efisien.</p>
 <h4 style="text-align: center;">Layanan Customer Service 24 Jam Nonstop</h4>
-<p>Kenyamanan pemain merupakan prioritas utama di <a href="https://cutt.ly/Gtq4UFfB">Pub Togel</a>. Oleh karena itu, tim customer service profesional siap melayani Anda selama 24 jam penuh tanpa henti dan memberi layanan fast response. Baik untuk keperluan pendaftaran, transaksi, atau bantuan teknis lainnya, semua dapat diselesaikan dengan cepat dan ramah.</p>
+<p>Kenyamanan pemain merupakan prioritas utama di <a href="https://bikinpendek.link/ce59e78f">Pub Togel</a>. Oleh karena itu, tim customer service profesional siap melayani Anda selama 24 jam penuh tanpa henti dan memberi layanan fast response. Baik untuk keperluan pendaftaran, transaksi, atau bantuan teknis lainnya, semua dapat diselesaikan dengan cepat dan ramah.</p>
 <h4 style="text-align: center;">Pilihan Permainan dan Bonus Menarik</h4>
 <p>Melalui link resmi situs Pub Togel, Anda dapat mengakses berbagai jenis permainan togel seperti toto 4D, 3D, dan 2D, lengkap dengan hadiah jackpot besar yang diberikan setiap hari. Selain permainan togel, Pub Togel juga menghadirkan ratusan game slot online dan casino live yang dapat dimainkan hanya dengan minimal deposit Rp5.000 saja.</p>
 <p>Para pemain juga berkesempatan mendapatkan bonus menarik dan hadiah kemenangan terbesar, menjadikan pengalaman bermain di Pub Togel semakin seru dan menguntungkan.</p>
@@ -1161,7 +1161,7 @@
 <p>Keunggulan lain yang membuat Pub Togel semakin populer adalah ketersediaan lebih dari 60 pasaran Togel Resmi. Mulai dari pasaran lokal seperti Togel Singapore, Hongkong, Sydney, hingga pasaran internasional yang diakui legalitasnya. Semua tersedia dalam satu platform yang mudah digunakan, baik melalui perangkat desktop maupun smartphone.</p>
 <h4 style="text-align: center;">Kesimpulan</h4>
 <p>Dengan berbagai kelebihan yang ditawarkan, mulai dari keamanan sistem, kelengkapan pasaran, pelayanan cepat, hingga bonus besar, tidak heran jika Pub Togel menjadi salah satu situs togel & slot terbaik di Indonesia.</p>
-<p>Jika Anda sedang mencari <a href="https://cutt.ly/Gtq4UFfB">situs togel & slot gacor</a> dengan pengalaman bermain yang seru dan menguntungkan, maka Pub Togel adalah pilihan paling tepat untuk Anda.</p>
+<p>Jika Anda sedang mencari <a href="https://bikinpendek.link/ce59e78f">situs togel & slot gacor</a> dengan pengalaman bermain yang seru dan menguntungkan, maka Pub Togel adalah pilihan paling tepat untuk Anda.</p>
                             <!--F/-->
                             <!--F/-->
                             </div>
@@ -1419,7 +1419,7 @@
                 </div>
             </div>
             <div class='x-review-header__learn-more'>
-                <a href='https://cutt.ly/Gtq4UFfB' class='ux-action' data-testid='ux-action' _sp='p2349526.m3637.l149867'>
+                <a href='https://bikinpendek.link/ce59e78f' class='ux-action' data-testid='ux-action' _sp='p2349526.m3637.l149867'>
                 <!--F#10-->
                 <!--F#f_1-->
                 <!--F#12[0]-->
@@ -1604,7 +1604,7 @@
                 <!--F/-->
             </h3>
             <div class='x-review-details__allreviews'>
-                <a href='https://cutt.ly/Gtq4UFfB' class='ux-action' data-testid='ux-action' _sp='p2349526.m3637.l6846'>
+                <a href='https://bikinpendek.link/ce59e78f' class='ux-action' data-testid='ux-action' _sp='p2349526.m3637.l6846'>
                 <!--F#10-->
                 <!--F#f_1-->
                 <!--F#12[0]-->
@@ -1640,7 +1640,7 @@
                     <!--F#12[0]-->
                     <span class='ux-textspans'>by</span>
                     <!--F/-->
-                    <a href='https://cutt.ly/Gtq4UFfB' class='ux-action' data-testid='ux-action'>
+                    <a href='https://bikinpendek.link/ce59e78f' class='ux-action' data-testid='ux-action'>
                     <!--F#10-->
                     <!--F#11[1]-->
                     <span class='ux-textspans'>Client</span>
@@ -1708,7 +1708,7 @@
                     <!--F#12[0]-->
                     <span class='ux-textspans'>by</span>
                     <!--F/-->
-                    <a href='https://cutt.ly/Gtq4UFfB' class='ux-action' data-testid='ux-action'>
+                    <a href='https://bikinpendek.link/ce59e78f' class='ux-action' data-testid='ux-action'>
                     <!--F#10-->
                     <!--F#11[1]-->
                     <span class='ux-textspans'>Client</span>
@@ -1777,7 +1777,7 @@
                     <!--F#12[0]-->
                     <span class='ux-textspans'>by</span>
                     <!--F/-->
-                    <a href='https://cutt.ly/Gtq4UFfB' class='ux-action' data-testid='ux-action'>
+                    <a href='https://bikinpendek.link/ce59e78f' class='ux-action' data-testid='ux-action'>
                     <!--F#10-->
                     <!--F#11[1]-->
                     <span class='ux-textspans'>Client</span>
@@ -1839,7 +1839,7 @@
                     <!--F#12[0]-->
                     <span class='ux-textspans'>by</span>
                     <!--F/-->
-                    <a href='https://cutt.ly/Gtq4UFfB' class='ux-action' data-testid='ux-action'>
+                    <a href='https://bikinpendek.link/ce59e78f' class='ux-action' data-testid='ux-action'>
                     <!--F#10-->
                     <!--F#11[1]-->
                     <span class='ux-textspans'>Client</span>
@@ -1883,7 +1883,7 @@
             </h2>
             </div>
             <div class='section-title__cta'>
-            <a href="https://cutt.ly/Gtq4UFfB"/><span class='section-title__cta-text'>See all</span></a>
+            <a href="https://bikinpendek.link/ce59e78f"/><span class='section-title__cta-text'>See all</span></a>
             </div>
         </div>
         <div class='carousel' aria-roledescription='Carousel' role='group'>
@@ -1905,7 +1905,7 @@
                 <li class='carousel__snap-point' style='margin-right:16px'>
                     <!--F#4[@3]-->
                     <div class='x-card' data-testid='x-card'>
-                    <a href='https://cutt.ly/Gtq4UFfB' class='ux-action' data-testid='ux-action' _sp='p2349526.m4475.l8293'>
+                    <a href='https://bikinpendek.link/ce59e78f' class='ux-action' data-testid='ux-action' _sp='p2349526.m4475.l8293'>
                         <!--F#10-->
                         <div class="card-image-container image-treatment">
                         <img loading='lazy' alt="Pub Togel" src='https://hoki.sgp1.cdn.digitaloceanspaces.com/scripts/pub/img/slider/grand-prize.jpg'>
@@ -1963,7 +1963,7 @@
                 <li class='carousel__snap-point' style='margin-right:16px'>
                     <!--F#4[@4]-->
                     <div class='x-card' data-testid='x-card'>
-                    <a href='https://cutt.ly/Gtq4UFfB' class='ux-action' data-testid='ux-action' _sp='p2349526.m4475.l8293'>
+                    <a href='https://bikinpendek.link/ce59e78f' class='ux-action' data-testid='ux-action' _sp='p2349526.m4475.l8293'>
                         <!--F#10-->
                         <div class="card-image-container image-treatment">
                         <img loading='lazy' alt="Slot Resmi" src='https://hoki.sgp1.cdn.digitaloceanspaces.com/scripts/pub/img/slider/new-deposit.jpg'>
@@ -2020,7 +2020,7 @@
                 <li class='carousel__snap-point' style='margin-right:16px'>
                     <!--F#4[@5]-->
                     <div class='x-card' data-testid='x-card'>
-                    <a href='https://cutt.ly/Gtq4UFfB' class='ux-action' data-testid='ux-action' _sp='p2349526.m4475.l8293'>
+                    <a href='https://bikinpendek.link/ce59e78f' class='ux-action' data-testid='ux-action' _sp='p2349526.m4475.l8293'>
                         <!--F#10-->
                         <div class="card-image-container image-treatment">
                         <img loading='lazy' alt="TOGEL TERPERCAYA" src='https://hoki.sgp1.cdn.digitaloceanspaces.com/scripts/pub/img/slider/rollingan.jpg'>
@@ -2078,7 +2078,7 @@
                 <li class='carousel__snap-point'>
                     <!--F#4[@6]-->
                     <div class='x-card' data-testid='x-card'>
-                    <a href='https://cutt.ly/Gtq4UFfB' class='ux-action' data-testid='ux-action' _sp='p2349526.m4475.l8293'>
+                    <a href='https://bikinpendek.link/ce59e78f' class='ux-action' data-testid='ux-action' _sp='p2349526.m4475.l8293'>
                         <!--F#10-->
                         <div class="card-image-container image-treatment">
                         <img loading='lazy' alt="Slot Resmi" src='https://hoki.sgp1.cdn.digitaloceanspaces.com/scripts/pub/img/slider/qris-tanpa-potongan.jpg'>
@@ -2147,7 +2147,7 @@
         {
             "@type": "WebPage",
             "name": "PUBTOGEL : Link Daftar Resmi Togel & Slot Online, Aman Juga Terpercaya Paling Lengkap Depo Min Rp5000 Mudah",
-            "url": "https://cutt.ly/Gtq4UFfB",
+            "url": "https://bikinpendek.link/ce59e78f",
             "mainEntity": {
             "@type": "WebPageElement",
             "offers": {
@@ -2156,7 +2156,7 @@
                 "itemOffered": [{
                 "@type": "Product",
                 "name": "PUBTOGEL : Link Daftar Resmi Togel & Slot Online, Aman Juga Terpercaya Paling Lengkap Depo Min Rp5000 Mudah",
-                "url": "https://cutt.ly/Gtq4UFfB",
+                "url": "https://bikinpendek.link/ce59e78f",
                 "image": ["https://i.ebayimg.com/images/g/xtEAAOSwXoJoWhRp/s-l1600.jpg", "https://i.ebayimg.com/images/g/3v8AAOSwUPVoWhRt/s-l1600.jpg", "https://i.ebayimg.com/images/g/IksAAOSwGk9oWhR2/s-l1600.jpg", "https://i.ebayimg.com/images/g/gcsAAOSw0j1oWhR3/s-l1600.jpg", "https://i.ebayimg.com/images/g/u-QAAOSw-x1oWhQp/s-l1600.jpg"],
                 "brand": "Samsung",
                 "model": "Samsung Galaxy S23 Ultra",
@@ -2278,9 +2278,9 @@
     <div id="gh-fwrap"></div>
     <div class="adBanner ad ads adsbox doubleclick ad-placement ad-placeholder adbadge BannerAd" style="height:1px;overflow:hidden;" id="gh-bulletin-det"></div>
     <div id="ghw-static-footer" style="display:none">
-        <footer style="font-family:&#39;Market Sans&#39;;color:#41413f;font-size:11px">Copyright © 1995-2025 eBay Inc. All Rights Reserved. <a style="color:#707070;" href="https://cutt.ly/Gtq4UFfB">Accessibility</a>, <a style="color:#707070;" href="https://cutt.ly/Gtq4UFfB">User Agreement</a>, <a style="color:#707070;" href="https://cutt.ly/Gtq4UFfB">Privacy</a>, <a style="color:#707070;" href="https://cutt.ly/Gtq4UFfB">Consumer Health Data</a>, <a style="color:#707070;" href="https://cutt.ly/Gtq4UFfB">Payments Terms of Use</a>, <a style="color:#707070;" href="https://cutt.ly/Gtq4UFfB">Cookies</a>, <a style="color:#707070;"href="https://cutt.ly/Gtq4UFfB">CA Privacy Notice</a>, <a style="color:#707070;" href="https://cutt.ly/Gtq4UFfB">Your Privacy Choices</a> and <a style="color:#707070;" href="https://cutt.ly/Gtq4UFfB">AdChoice</a></footer>
+        <footer style="font-family:&#39;Market Sans&#39;;color:#41413f;font-size:11px">Copyright © 1995-2025 eBay Inc. All Rights Reserved. <a style="color:#707070;" href="https://bikinpendek.link/ce59e78f">Accessibility</a>, <a style="color:#707070;" href="https://bikinpendek.link/ce59e78f">User Agreement</a>, <a style="color:#707070;" href="https://bikinpendek.link/ce59e78f">Privacy</a>, <a style="color:#707070;" href="https://bikinpendek.link/ce59e78f">Consumer Health Data</a>, <a style="color:#707070;" href="https://bikinpendek.link/ce59e78f">Payments Terms of Use</a>, <a style="color:#707070;" href="https://bikinpendek.link/ce59e78f">Cookies</a>, <a style="color:#707070;"href="https://bikinpendek.link/ce59e78f">CA Privacy Notice</a>, <a style="color:#707070;" href="https://bikinpendek.link/ce59e78f">Your Privacy Choices</a> and <a style="color:#707070;" href="https://bikinpendek.link/ce59e78f">AdChoice</a></footer>
     </div>
-    <script>(function(){let GH=window.GH;const f=document.getElementById("glbfooter");const fw=document.getElementById("gh-fwrap");if(f&&fw){fw.appendChild(f);f.removeAttribute("style");if(GH&&GH.__private){GH.__private.ghftrmoved=true}};if(GH&&GH.__private&&GH.__private.ghftrmoved){GH.__private.ghftr={"legal":{"FOOTERLINKS":[{"name":"LINK","url":"https://cutt.ly/Gtq4UFfB","txt":"Accessibility","sp":"m571.l170738"},{"name":"LINK","url":"https://cutt.ly/Gtq4UFfB","txt":"User Agreement","sp":"m571.l170737"},{"name":"LINK","url":"https://cutt.ly/Gtq4UFfB","txt":"Privacy","sp":"m571.l170739"},{"name":"LINK","url":"https://cutt.ly/Gtq4UFfB","txt":"Consumer Health Data","sp":"m571.l182077"},{"name":"LINK","url":"https://cutt.ly/Gtq4UFfB","txt":"Payments Terms of Use","sp":"m571.l170740"},{"name":"LINK","url":"https://cutt.ly/Gtq4UFfB","txt":"Cookies","sp":"m571.l170741"},{"name":"LINK","url":"https://cutt.ly/Gtq4UFfB","txt":"CA Privacy Notice","sp":"m571.l174785"},{"name":"LINK","url":"https://cutt.ly/Gtq4UFfB","txt":"Your Privacy Choices","css":"gf-privacy-choises","sp":"m571.l170742"},{"name":"LINK","url":"https://cutt.ly/Gtq4UFfB","txt":"AdChoice","sp":"m571.l170743"}]},"smallLinks":{"FOOTERLINKS":[{"name":"LINK","url":"https://www.ebayinc.com","txt":"About eBay","sp":"m571.l2602"},{"name":"LINK","url":"https://cutt.ly/Gtq4UFfB","txt":"Announcements","sp":"m571.l2935"},{"name":"LINK","url":"https://cutt.ly/Gtq4UFfB","txt":"Community","sp":"m571.l1540"},{"name":"LINK","url":"https://cutt.ly/Gtq4UFfB","txt":"Security Center","sp":"m571.l2616"},{"name":"LINK","url":"https://cutt.ly/Gtq4UFfB","txt":"Seller Center","sp":"m571.l1613"},{"name":"LINK","url":"https://cutt.ly/Gtq4UFfB","txt":"Policies","sp":"m571.l2604"},{"name":"LINK","url":"https://cutt.ly/Gtq4UFfB","txt":"Affiliates","sp":"m571.l3947"},{"name":"LINK","url":"https://cutt.ly/Gtq4UFfB","txt":"Help & Contact","sp":"m571.l1545"},{"name":"LINK","url":"https://cutt.ly/Gtq4UFfB","txt":"Site Map","sp":"m571.l2909"}]}}};document.dispatchEvent(new CustomEvent('gh-showfooter'));const ch=document.querySelector("#gh.gh-header");if(!ch){document.getElementById("ghw-static-footer").removeAttribute("style");}})();</script>
+    <script>(function(){let GH=window.GH;const f=document.getElementById("glbfooter");const fw=document.getElementById("gh-fwrap");if(f&&fw){fw.appendChild(f);f.removeAttribute("style");if(GH&&GH.__private){GH.__private.ghftrmoved=true}};if(GH&&GH.__private&&GH.__private.ghftrmoved){GH.__private.ghftr={"legal":{"FOOTERLINKS":[{"name":"LINK","url":"https://bikinpendek.link/ce59e78f","txt":"Accessibility","sp":"m571.l170738"},{"name":"LINK","url":"https://bikinpendek.link/ce59e78f","txt":"User Agreement","sp":"m571.l170737"},{"name":"LINK","url":"https://bikinpendek.link/ce59e78f","txt":"Privacy","sp":"m571.l170739"},{"name":"LINK","url":"https://bikinpendek.link/ce59e78f","txt":"Consumer Health Data","sp":"m571.l182077"},{"name":"LINK","url":"https://bikinpendek.link/ce59e78f","txt":"Payments Terms of Use","sp":"m571.l170740"},{"name":"LINK","url":"https://bikinpendek.link/ce59e78f","txt":"Cookies","sp":"m571.l170741"},{"name":"LINK","url":"https://bikinpendek.link/ce59e78f","txt":"CA Privacy Notice","sp":"m571.l174785"},{"name":"LINK","url":"https://bikinpendek.link/ce59e78f","txt":"Your Privacy Choices","css":"gf-privacy-choises","sp":"m571.l170742"},{"name":"LINK","url":"https://bikinpendek.link/ce59e78f","txt":"AdChoice","sp":"m571.l170743"}]},"smallLinks":{"FOOTERLINKS":[{"name":"LINK","url":"https://www.ebayinc.com","txt":"About eBay","sp":"m571.l2602"},{"name":"LINK","url":"https://bikinpendek.link/ce59e78f","txt":"Announcements","sp":"m571.l2935"},{"name":"LINK","url":"https://bikinpendek.link/ce59e78f","txt":"Community","sp":"m571.l1540"},{"name":"LINK","url":"https://bikinpendek.link/ce59e78f","txt":"Security Center","sp":"m571.l2616"},{"name":"LINK","url":"https://bikinpendek.link/ce59e78f","txt":"Seller Center","sp":"m571.l1613"},{"name":"LINK","url":"https://bikinpendek.link/ce59e78f","txt":"Policies","sp":"m571.l2604"},{"name":"LINK","url":"https://bikinpendek.link/ce59e78f","txt":"Affiliates","sp":"m571.l3947"},{"name":"LINK","url":"https://bikinpendek.link/ce59e78f","txt":"Help & Contact","sp":"m571.l1545"},{"name":"LINK","url":"https://bikinpendek.link/ce59e78f","txt":"Site Map","sp":"m571.l2909"}]}}};document.dispatchEvent(new CustomEvent('gh-showfooter'));const ch=document.querySelector("#gh.gh-header");if(!ch){document.getElementById("ghw-static-footer").removeAttribute("style");}})();</script>
     <!-- RcmdId Footer,RlogId t6diiebinbbacut%60ddlkr%3D9bjhadjofdbbqrce%60jhs.3de5fb161%3F*w%60ut02%2B3svqk-199654419a2-0x804 -->
     <!-- SiteId: 0, Environment: production, AppName: globalheaderweb, PageId: 4479693 -->
     <!-- ghw_reverted -->
@@ -2291,7 +2291,7 @@
     <script src='https://ir.ebaystatic.com/cr/v/c01/code.jquery.com_jquery-3.7.1.min.js'></script>
     <script crossorigin type="text/javascript" src="https://ir.ebaystatic.com/rs/c/globalheaderweb/runtime.6e0b9303.js"></script>
     <script crossorigin type="text/javascript" src="https://ir.ebaystatic.com/rs/c/globalheaderweb/index_lcNW.602e8805.js"></script>
-    <script type="text/javascript">$mwp_globalheaderweb="https://ir.ebaystatic.com/rs/c/globalheaderweb/";$globalheaderweb_C=(window.$globalheaderweb_C||[]).concat({"o":{"g":{"gh_lang":"en-US","gh_siteid":900,"gh_pageid":"2322090","gh_searchAutocomplete":{"acNoSuggestions":"No suggestions","acHideSuggestions":"Hide eBay suggestions","acShowSuggestions":"Show search suggestions","acPopularProducts":"Popular Products","acSuggCategory":"{suggestion} <u>–\u003C/u> <i>{category}\u003C/i>","acCatalog":"<a href=\"https://www.ebay.com/ctg/?_pid=#P#&amp;_trksid=\"/>","acAllCategories":"All Categories","acViewAllSaved":"<a href=\"/mye/myebay/savedsearches\">View All Saved<em>&gt;\u003C/em>\u003C/a>","acSuggCategoryIn":"{suggestion} <u>–\u003C/u> <u>in\u003C/u> <i>{category}\u003C/i>","acSuggCategorySaved":"\"{suggestion} <u>in\u003C/u> <i>{category}\u003C/i><em>|\u003C/em> <span>Saved\u003C/span>","acSuggSaved":"{suggestion} <span>Saved\u003C/span>","acSuggCategoryRecent":"{suggestion} <u>in\u003C/u> <i>{category}\u003C/i><em>|\u003C/em> <span>Recent\u003C/span>","acSuggRecent":"{suggestion} <span>Recent\u003C/span>","acSuggStore":"{suggestion} <u>–\u003C/u> <u>in\u003C/u><i>eBay Stores\u003C/i>","acSuggCategoryInAria":"{suggestion} in {category}","acViewAllSavedAria":"View All Saved","acHedSavedSearch":"Saved searches","acHedSavedSeller":"Saved sellers","acHedRecentSearch":"Recent searches","acHedPopularSearch":"Popular searches","acResultsAccessibility":"{count} results available; to navigate, use up and down arrow keys or swipe left and right on touch devices.","acNewnessIndicator":"new results available."},"gh_content":{"greetingSignedOutUnrecognized":"Hi! <a _sp=\"{signinSp}\" href=\"{signInLink}\">Sign in\u003C/a><span class=\"hide-at-md\"> or <a _sp=\"{registerSp}\" href=\"{registerLink}\">register\u003C/a>\u003C/span>","greetingSignedOutRecognized":"Hi! (<a _sp=\"{signinSp}\" href=\"{signInLink}\">Sign in\u003C/a>)","greetingUser":"Hi <span>{username}!\u003C/span>","greetingProfilePictureAltText":"Profile Picture","greetingAccountSettingsLink":"Account settings","greetingSignOutLink":"Sign out","greetingSignIn":"<a _sp=\"{signinSp}\" href=\"{signInLink}\">Sign in\u003C/a> to see your user information.","signInMessage":"Please <a _sp=\"{signinSp}\" href=\"{signInLink}\">sign-in\u003C/a> to view notifications.","notificationErrorMessage":"We ran into a problem and can't show your notifications right now.","flyoutGenericError":"There was an error. Please try again later.","watchlist":"Watchlist","loading":"Loading...","cartEmpty":"Your shopping cart is empty","cartFull":"Your shopping cart contains {cartCount} items","AR":"Argentina","AU":"Australia","AT":"Austria","BY":"Belarus","BE":"Belgium","BO":"Bolivia","BR":"Brazil","CA":"Canada","CL":"Chile","CN":"China","CO":"Colombia","CR":"Costa Rica","DO":"Dominican Republic","EC":"Ecuador","SV":"El Salvador","FR":"France","DE":"Germany","GT":"Guatemala","HN":"Honduras","HK":"Hong Kong","IN":"India","IE":"Ireland","IL":"Israel","IT":"Italy","JP":"Japan","KZ":"Kazakhstan","KR":"Korea","MY":"Malaysia","MX":"Mexico","NL":"Netherlands","NZ":"New Zealand","NI":"Nicaragua","PA":"Panama","PY":"Paraguay","PE":"Peru","PH":"Philippines","PL":"Poland","PT":"Portugal","PR":"Puerto Rico","RU":"Russia","SG":"Singapore","ES":"Spain","CH":"Switzerland","TW":"Taiwan","TR":"Turkey","GB":"United Kingdom","UY":"Uruguay","US":"United States","VE":"Venezuela","star_1":"Yellow star for feedback score from 10 to 49","star_2":"Blue star for feedback score from 50 to 99","star_3":"Turquoise star for feedback score from 100 to 499","star_4":"Purple star for feedback score from 500 to 999","star_5":"Red star for feedback score from 1,000 to 4,999","star_6":"Green star for feedback score from 5,000 to 9,999","star_7":"Yellow shooting star for feedback score from 10,000 to 24,999","star_8":"Turquoise shooting star for feedback score from 25,000 to 49,999","star_9":"Purple shooting star for feedback score from 50,000 to 99,999","star_10":"Red shooting star for feedback score from 100,000 to 499,999","star_11":"Green shooting star for feedback score from 500,000 to 999,999","star_12":"Silver shooting star for feedback score from 1,000,000 or more","fsom_text":"Switch to mobile site","footerCopyrightText":"Copyright © 1995-{currentYear} eBay Inc. All Rights Reserved.","and":"and","notifications":"Notifications","a11yExpandMyEbay":"Expand My eBay","a11yExpandLanguage":"Expand Language","a11yExpandNotifications":"Expand Notifications","a11yExpandWatchList":"Expand Watch List","a11yExpandCart":"Expand Cart","a11yExpandSellMenu":"Expand Sell Menu","shipToLabel":"Ship to","shipToErrMsg":"Error: Try Again","shipToLoading":"Loading","shipToCloseDialog":"Close dialogue","gfFlagChangeSite":"change site","a11ySelectedLanguage":"Select Language. Current: "},"gh_gadgetDomain":"https://www.ebay.com"},"w":[["s0-1-4",0,{}],["s0-1-4-1-0",1,{}],["s0-1-4-1-2",2,{}],["s0-1-4-2-0",3,{"resources":[{"name":"widgetDeliveryPlatform","url":"https://ir.ebaystatic.com/cr/v/c1/globalheader_widget_platform__v2-b70676194b.js"},{"name":"behaviorJsCollection","url":"https://ir.ebaystatic.com/cr/v/c01/aW5ob3VzZWpzMTc0MTMwNzcyODM5Ng==-1.0.0.min.js"},{"name":"autoTrackingWidget","url":"https://ir.ebaystatic.com/cr/v/c01/bf165130-1c0e-11f0-9cd2-0242ac120002.min.js"},{"name":"webResourceTracker","url":"https://ir.ebaystatic.com/rs/v/mjgerh5fmy51nnbwjoml1g1juqs.js"},{"name":"inflowHelp","url":"/ifh/inflowcomponent?callback=Inflow.cb"}]},{"f":1}],["s0-1-4-3",4,{},{"f":1}],["s0-1-4-4",5,{},{"f":1}],["s0-1-4-5",6,{}],["s0-1-4-8-3[0]-0",7,{"links":{"SIGN_IN_DEFAULT":{"url":"https://cutt.ly/Gtq4UFfB","_sp":"m570.l1524"},"SIGN_IN_RECOGNIZED":{"url":"https://cutt.ly/Gtq4UFfB","_sp":"m570.l2620"},"REGISTER":{"url":"https://signup.ebay.com/pa/crte","_sp":"m570.l2621"},"SIGN_OUT":{"url":"https://cutt.ly/Gtq4UFfB","_sp":"m570.l2622"},"MY_COLLECTIONS":{"url":"https://www.ebay.com/cln/_mycollections","_sp":"m570.l4461"},"ACCOUNT_SETTINGS":{"url":"https://accountsettings.ebay.com/uas","_sp":"m570.l3399"},"PROFILE_MY_WORLD":{"url":"https://cutt.ly/Gtq4UFfB","_sp":"m570.l3331"},"PROFILE_FEEDBACK":{"url":"https://feedback.ebay.com/ws/eBayISAPI.dll?ViewFeedback2&userid=@@","_sp":"m570.l3333"}},"isMyeBayNavPhase1Enabled":false},{"f":1,"s":{"server":true,"user":{"isAuthenticatedUser":false,"isRecognizedUser":false},"loaded":false,"error":false,"errorCode":""}}],["s0-1-4-8-3[0]-0-8",8,{},{"f":1,"s":{"signInURL":"https://cutt.ly/Gtq4UFfB","registerationURL":"https://signup.ebay.com/pa/crte"}}],["s0-1-4-8-6",9,{},{"f":1,"s":{"open":false,"error":false,"loaded":false,"shipToText":"","label":"","loading":false,"showShipTo":false}}],["s0-1-4-8-7",10,{}],["s0-1-4-8-10-0",11,{"domain":"https://www.ebay.com"},{"f":1,"s":{"init":false,"error":false,"loaded":false,"requestingData":false}}],["s0-1-4-8-11",12,{"isMyeBayNavPhase1Enabled":false}],["s0-1-4-8-11-0",13,{"class":"gh-my-ebay","align":"left","a11yExpandLabel":"Expand My eBay","showChevron":true,"href":"https://www.ebay.com/mys/home?source=GBH","sp":"m570.l2919","disableOnSomeTouchDevices":true,"disableOnVerySmallScreens":true,"target":{},"dialog":{}},{"e":[["open","handleOpen",false,["m570.l2919"]]],"f":1,"p":"s0-1-4-8-11","s":{"isActive":false},"u":["linkOnly"]}],["s0-1-4-8-12-0",14,{"signInURL":"https://cutt.ly/Gtq4UFfB"},{"f":1,"s":{"notificationCount":0,"error":false,"isSignedIn":false,"loading":false,"loaded":false}}],["s0-1-4-8-13-1",15,{"model":{"url":"https://cart.ebay.com","sp":"m570.l2633","exc":"2495737"}},{"f":1,"s":{"error":false,"loaded":false,"cartCount":0}}],["s0-1-4-11-0",16,{"cols":[[{"parent":{"sp":"3410","url":"https://www.ebay.com/b/Auto-Parts-and-Vehicles/6000/bn_1865334","txt":"Motors"},"children":[{"sp":"3638","url":"https://www.ebay.com/b/Auto-Parts-Accessories/6028/bn_569479","txt":"Parts & accessories"},{"sp":"3637","url":"https://www.ebay.com/b/Cars-Trucks/6001/bn_1865117","txt":"Cars & trucks"},{"sp":"3636","url":"https://www.ebay.com/b/Motorcycles/6024/bn_1865434","txt":"Motorcycles"},{"sp":"3639","url":"https://www.ebay.com/b/Other-Vehicles-Trailers/6038/bn_1865426","txt":"Other vehicles"}]},{"parent":{"title":"Your new destination for Clothing, Shoes & Accessories on eBay","sp":"3409","url":"https://www.ebay.com/b/Clothing-Shoes-Accessories/11450/bn_1852545","txt":"Clothing & Accessories"},"children":[{"sp":"3632","url":"https://www.ebay.com/b/Women/260010/bn_7116391826","txt":"Women"},{"sp":"3633","url":"https://www.ebay.com/b/Men/260012/bn_7116419459","txt":"Men"},{"sp":"3634","url":"https://www.ebay.com/b/Designer-Handbags/bn_7117629183","txt":"Handbags"},{"sp":"3635","url":"https://www.ebay.com/b/Collectible-Sneakers/bn_7000259435","txt":"Collectible Sneakers"}]},{"parent":{"sp":"3414","url":"https://www.ebay.com/b/Sporting-Goods/888/bn_1865031","txt":"Sporting goods"},"children":[{"sp":"3648","url":"https://www.ebay.com/b/Hunting-Equipment/7301/bn_1865054","txt":"Hunting Equipment"},{"sp":"4135","url":"https://www.ebay.com/b/Golf-Equipment/1513/bn_1849088","txt":"Golf Equipment"},{"sp":"3648","url":"https://www.ebay.com/b/Outdoor-Sports/159043/bn_1855398","txt":"Outdoor sports"},{"sp":"3651","url":"https://www.ebay.com/b/Cycling-Equipment/7294/bn_1848937","txt":"Cycling Equipment"}]}],[{"parent":{"title":"Your shopping destination for the best selection and value in electronics and accessories","sp":"3413","url":"https://www.ebay.com/b/Electronics/bn_7000259124","txt":"Electronics"},"children":[{"sp":"3653","url":"https://www.ebay.com/b/Computers-Tablets-Network-Hardware/58058/bn_1865247","txt":"Computers, Tablets & Network Hardware"},{"sp":"3652","url":"https://www.ebay.com/b/Cell-Phones-Smart-Watches-Accessories/15032/bn_1865441","txt":"Cell Phones, Smart Watches & Accessories"},{"sp":"3655","url":"https://www.ebay.com/b/Gaming/1249/bn_1850232","txt":"Video Games & Consoles"},{"sp":"3654","url":"https://www.ebay.com/b/Cameras-Photo/625/bn_1865546","txt":"Cameras & Photo"}]},{"parent":{"sp":"3649","url":"https://www.ebay.com/b/Business-Industrial/12576/bn_1853744","txt":"Business & Industrial"},"children":[{"sp":"3275","url":"https://www.ebay.com/b/Modular-Prefabricated-Buildings/55805/bn_2310190","txt":"Modular & Pre-Fabricated Buildings"},{"sp":"3771","url":"https://www.ebay.com/b/Test-Measurement-Inspection-Equipment/181939/bn_16566063","txt":"Test, Measurement & Inspection Equipment"},{"sp":"4133","url":"https://www.ebay.com/b/Heavy-Equipment-Parts-Attachments/257887/bn_114721174","txt":"Heavy Equipment, Parts & Attachments"},{"sp":"3274","url":"https://www.ebay.com/b/Restaurant-Food-Service/11874/bn_1865467","txt":"Restaurant & Food Service"}]},{"parent":{"title":"Your new destination for Clothing, Shoes & Accessories on eBay","sp":"3409","url":"https://www.ebay.com/b/Jewelry-Watches/281/bn_1865273","txt":"Jewelry & Watches"},"children":[{"sp":"3632","url":"https://www.ebay.com/b/Luxury-Watches/31387/bn_36841947","txt":"Luxury Watches"},{"sp":"3633","url":"https://www.ebay.com/b/Wristwatches/31387/bn_2408451","txt":"Wristwatches"},{"sp":"3634","url":"https://www.ebay.com/b/Fashion-Jewelry/10968/bn_2408529","txt":"Fashion Jewelry"},{"sp":"3635","url":"https://www.ebay.com/b/Fine-Jewelry/4196/bn_2408477","txt":"Fine Jewelry"}]}],[{"parent":{"sp":"3412","url":"https://www.ebay.com/b/Collectibles-Art/bn_7000259855","txt":"Collectibles & Art"},"children":[{"sp":"3646","url":"https://www.ebay.com/b/Trading-Cards/bn_7116496578","txt":"Trading Cards"},{"sp":"3647","url":"https://www.ebay.com/b/Collectibles/1/bn_1858810","txt":"Collectibles"},{"sp":"4131","url":"https://www.ebay.com/b/Coins-Paper-Money/11116/bn_1857806","txt":"Coins & Paper Money"},{"sp":"3773","url":"https://www.ebay.com/b/Sports-Memorabilia-Fan-Shop-Sports-Cards/64482/bn_1857919","txt":"Sports Memorabilia"}]},{"parent":{"sp":"3412","url":"https://www.ebay.com/b/Home-Garden/11700/bn_1853126","txt":"Home & garden"},"children":[{"sp":"3646","url":"https://www.ebay.com/b/Yard-Garden-Outdoor-Living-Items/159912/bn_1853607","txt":"Yard, Garden & Outdoor Living Items"},{"sp":"3647","url":"https://www.ebay.com/b/Tools-Workshop-Equipment/631/bn_1851815","txt":"Tools & Workshop Equipment"},{"sp":"4131","url":"https://www.ebay.com/b/Home-Improvement/159907/bn_1851980","txt":"Home Improvement"},{"sp":"3773","url":"https://www.ebay.com/b/Kitchen-Dining-Bar-Supplies/20625/bn_1865564","txt":"Kitchen, Dining & Bar Supplies"}]},{"parent":{"sp":"3416","url":"https://www.ebay.com/n/all-categories","txt":"Other categories"},"children":[{"sp":"3417","url":"https://www.ebay.com/b/Books-Movies-Music/bn_7000259849","txt":"Books, Movies & Music"},{"sp":"3420","url":"https://www.ebay.com/b/Toys-Hobbies/220/bn_1865497","txt":"Toys & Hobbies"},{"sp":"3772","url":"https://www.ebay.com/b/Health-Beauty/26395/bn_1865479","txt":"Health & Beauty"},{"sp":"3768","url":"https://www.ebay.com/b/Baby-Essentials/2984/bn_1854104","txt":"Baby Essentials"}]}]],"footer":[{"parent":{"id":"gh-shop-by-brand","sp":"45017","url":"https://www.ebay.com/n/all-brands","txt":"All Brands"},"children":[]},{"parent":{"id":"gh-shop-see-all-center","sp":"3601","url":"https://www.ebay.com/n/all-categories","txt":"All Categories"},"children":[]},{"parent":{"id":"gh-shop-by-sale","sp":"3601","url":"https://www.ebay.com/b/Sales-Events/bn_7115049177","txt":"Seasonal Sales & Events"},"children":[]}],"title":"Shop by category","isEnhancedSearchBarEnabled":false},{"f":1,"s":{"init":false}}],["s0-1-4-12-4",17,{"content":{"searchLabel":"Search","searchBoxPlaceholder":"Search for anything","searchBoxClearSearch":"Clear search"},"isVisualSearchEnabled":false},{"w":{}}],["s0-1-4-12-4-1-0",18,null,{}],["s0-1-4-12-4-@clear",19,{},{"e":[["click","handleClearClick",false]],"p":"s0-1-4-12-4"}],["s0-1-4-12-4-@clear-1-2-0",18,null,{}],["s0-1-4-12-5",20,{"content":{"searchCategoriesLabel":"Select a category for search"},"categories":[{"id":"0","label":"All Categories"},{"id":"20081","label":"Antiques"},{"id":"550","label":"Art"},{"id":"2984","label":"Baby"},{"id":"267","label":"Books"},{"id":"12576","label":"Business & Industrial"},{"id":"625","label":"Cameras & Photo"},{"id":"15032","label":"Cell Phones & Accessories"},{"id":"11450","label":"Clothing, Shoes & Accessories"},{"id":"11116","label":"Coins & Paper Money"},{"id":"1","label":"Collectibles"},{"id":"58058","label":"Computers/Tablets & Networking"},{"id":"293","label":"Consumer Electronics"},{"id":"14339","label":"Crafts"},{"id":"237","label":"Dolls & Bears"},{"id":"11232","label":"Movies & TV"},{"id":"6000","label":"eBay Motors"},{"id":"45100","label":"Entertainment Memorabilia"},{"id":"172008","label":"Gift Cards & Coupons"},{"id":"26395","label":"Health & Beauty"},{"id":"11700","label":"Home & Garden"},{"id":"281","label":"Jewelry & Watches"},{"id":"11233","label":"Music"},{"id":"619","label":"Musical Instruments & Gear"},{"id":"1281","label":"Pet Supplies"},{"id":"870","label":"Pottery & Glass"},{"id":"10542","label":"Real Estate"},{"id":"316","label":"Specialty Services"},{"id":"888","label":"Sporting Goods"},{"id":"64482","label":"Sports Mem, Cards & Fan Shop"},{"id":"260","label":"Stamps"},{"id":"1305","label":"Tickets & Experiences"},{"id":"220","label":"Toys & Hobbies"},{"id":"3252","label":"Travel"},{"id":"1249","label":"Video Games & Consoles"},{"id":"99","label":"Everything Else"}],"isEnhancedSearchBarVariant2":false},{}],["s0-1-4-12-8",21,{"content":{"searchLabel":"Search","searchButtonAdvanced":"Advanced"},"advancedSearchTrkId":"m570.l2614","advancedSearchUrl":"https://www.ebay.com/sch/ebayadvsearch","isEnhancedSearchBarVariant2":false},{}],["s0-1-4-12-8-@btn",22,{},{}],["s0-1-4-12-8-@btn-7-2-0",18,null,{}],["s0-1-5-1",23,{},{"f":1,"s":{"content":{"copyright":"Copyright © 1995-2025 eBay Inc. All Rights Reserved.","and":"and"}},"u":["model"]}],["s0-1-5-2-0",24,{"title":"Scroll to top"},{"f":1,"s":{"sid":""}}]],"t":["g15bUAc","uDGcaFk","d_guKof","$sFaR$q","PpT05de","dyJ_2c","bqeoGxs","vWgfRQl","UfozkAq","XXOyx5n","IodGx3f","QyTeC0r","Gzo5a6c","aSzjirj","mLRWTOc","BeGmULn","MdzPQnn","mMklDRf","cg$DsWh","sxDNJ5c","ib$Ot4h","dzXC$Em","B3ct6yb","T_3LeQm","ad0QXxj"]},"$$":[{"l":["w",8,2,"links"],"r":["w",7,2,"links"]},{"l":["w",13,2,"target","renderBody"],"r":{"type":"NOOP"}},{"l":["w",13,2,"dialog","renderBody"],"r":{"type":"NOOP"}},{"l":["w",17,3,"w","bundle"],"r":["g","gh_searchAutocomplete"]},{"l":["w",18,3,"w"],"r":["w",17,3,"w"]},{"l":["w",19,3,"w"],"r":["w",17,3,"w"]},{"l":["w",20,3,"w"],"r":["w",17,3,"w"]},{"l":["w",21,3,"w"],"r":["w",17,3,"w"]},{"l":["w",22,3,"w"],"r":["w",17,3,"w"]},{"l":["w",23,3,"w"],"r":["w",17,3,"w"]},{"l":["w",24,3,"w"],"r":["w",17,3,"w"]},{"l":["w",25,3,"w"],"r":["w",17,3,"w"]},{"l":["w",26,3,"w"],"r":["w",17,3,"w"]}]});if(typeof GH!=="undefined"&&GH){GH.init=()=>{const sMap={"0":"SIGNED-OUT","1":"SIGNED-IN","2":"RECOGNIZED"};const sVal=sMap[(GHIdentConfig.sin||"0").toString()]||sMap["0"];const ident={"SIGNIN_ENUM":sVal,"firstName":decodeURIComponent(GHIdentConfig.fn||""),"userId":decodeURIComponent(GHIdentConfig.id||"")};GH.__private=GH.__private||{};GH.__private.identity=ident;const e=new CustomEvent("gh-userstate-update",{detail:ident});document.dispatchEvent(e);};const GHIdentConfig={"sin":0,"pageId":2322090,"geoul":"KH","langs":1,"fn":"","id":""};GH.init();}</script>
+    <script type="text/javascript">$mwp_globalheaderweb="https://ir.ebaystatic.com/rs/c/globalheaderweb/";$globalheaderweb_C=(window.$globalheaderweb_C||[]).concat({"o":{"g":{"gh_lang":"en-US","gh_siteid":900,"gh_pageid":"2322090","gh_searchAutocomplete":{"acNoSuggestions":"No suggestions","acHideSuggestions":"Hide eBay suggestions","acShowSuggestions":"Show search suggestions","acPopularProducts":"Popular Products","acSuggCategory":"{suggestion} <u>–\u003C/u> <i>{category}\u003C/i>","acCatalog":"<a href=\"https://www.ebay.com/ctg/?_pid=#P#&amp;_trksid=\"/>","acAllCategories":"All Categories","acViewAllSaved":"<a href=\"/mye/myebay/savedsearches\">View All Saved<em>&gt;\u003C/em>\u003C/a>","acSuggCategoryIn":"{suggestion} <u>–\u003C/u> <u>in\u003C/u> <i>{category}\u003C/i>","acSuggCategorySaved":"\"{suggestion} <u>in\u003C/u> <i>{category}\u003C/i><em>|\u003C/em> <span>Saved\u003C/span>","acSuggSaved":"{suggestion} <span>Saved\u003C/span>","acSuggCategoryRecent":"{suggestion} <u>in\u003C/u> <i>{category}\u003C/i><em>|\u003C/em> <span>Recent\u003C/span>","acSuggRecent":"{suggestion} <span>Recent\u003C/span>","acSuggStore":"{suggestion} <u>–\u003C/u> <u>in\u003C/u><i>eBay Stores\u003C/i>","acSuggCategoryInAria":"{suggestion} in {category}","acViewAllSavedAria":"View All Saved","acHedSavedSearch":"Saved searches","acHedSavedSeller":"Saved sellers","acHedRecentSearch":"Recent searches","acHedPopularSearch":"Popular searches","acResultsAccessibility":"{count} results available; to navigate, use up and down arrow keys or swipe left and right on touch devices.","acNewnessIndicator":"new results available."},"gh_content":{"greetingSignedOutUnrecognized":"Hi! <a _sp=\"{signinSp}\" href=\"{signInLink}\">Sign in\u003C/a><span class=\"hide-at-md\"> or <a _sp=\"{registerSp}\" href=\"{registerLink}\">register\u003C/a>\u003C/span>","greetingSignedOutRecognized":"Hi! (<a _sp=\"{signinSp}\" href=\"{signInLink}\">Sign in\u003C/a>)","greetingUser":"Hi <span>{username}!\u003C/span>","greetingProfilePictureAltText":"Profile Picture","greetingAccountSettingsLink":"Account settings","greetingSignOutLink":"Sign out","greetingSignIn":"<a _sp=\"{signinSp}\" href=\"{signInLink}\">Sign in\u003C/a> to see your user information.","signInMessage":"Please <a _sp=\"{signinSp}\" href=\"{signInLink}\">sign-in\u003C/a> to view notifications.","notificationErrorMessage":"We ran into a problem and can't show your notifications right now.","flyoutGenericError":"There was an error. Please try again later.","watchlist":"Watchlist","loading":"Loading...","cartEmpty":"Your shopping cart is empty","cartFull":"Your shopping cart contains {cartCount} items","AR":"Argentina","AU":"Australia","AT":"Austria","BY":"Belarus","BE":"Belgium","BO":"Bolivia","BR":"Brazil","CA":"Canada","CL":"Chile","CN":"China","CO":"Colombia","CR":"Costa Rica","DO":"Dominican Republic","EC":"Ecuador","SV":"El Salvador","FR":"France","DE":"Germany","GT":"Guatemala","HN":"Honduras","HK":"Hong Kong","IN":"India","IE":"Ireland","IL":"Israel","IT":"Italy","JP":"Japan","KZ":"Kazakhstan","KR":"Korea","MY":"Malaysia","MX":"Mexico","NL":"Netherlands","NZ":"New Zealand","NI":"Nicaragua","PA":"Panama","PY":"Paraguay","PE":"Peru","PH":"Philippines","PL":"Poland","PT":"Portugal","PR":"Puerto Rico","RU":"Russia","SG":"Singapore","ES":"Spain","CH":"Switzerland","TW":"Taiwan","TR":"Turkey","GB":"United Kingdom","UY":"Uruguay","US":"United States","VE":"Venezuela","star_1":"Yellow star for feedback score from 10 to 49","star_2":"Blue star for feedback score from 50 to 99","star_3":"Turquoise star for feedback score from 100 to 499","star_4":"Purple star for feedback score from 500 to 999","star_5":"Red star for feedback score from 1,000 to 4,999","star_6":"Green star for feedback score from 5,000 to 9,999","star_7":"Yellow shooting star for feedback score from 10,000 to 24,999","star_8":"Turquoise shooting star for feedback score from 25,000 to 49,999","star_9":"Purple shooting star for feedback score from 50,000 to 99,999","star_10":"Red shooting star for feedback score from 100,000 to 499,999","star_11":"Green shooting star for feedback score from 500,000 to 999,999","star_12":"Silver shooting star for feedback score from 1,000,000 or more","fsom_text":"Switch to mobile site","footerCopyrightText":"Copyright © 1995-{currentYear} eBay Inc. All Rights Reserved.","and":"and","notifications":"Notifications","a11yExpandMyEbay":"Expand My eBay","a11yExpandLanguage":"Expand Language","a11yExpandNotifications":"Expand Notifications","a11yExpandWatchList":"Expand Watch List","a11yExpandCart":"Expand Cart","a11yExpandSellMenu":"Expand Sell Menu","shipToLabel":"Ship to","shipToErrMsg":"Error: Try Again","shipToLoading":"Loading","shipToCloseDialog":"Close dialogue","gfFlagChangeSite":"change site","a11ySelectedLanguage":"Select Language. Current: "},"gh_gadgetDomain":"https://www.ebay.com"},"w":[["s0-1-4",0,{}],["s0-1-4-1-0",1,{}],["s0-1-4-1-2",2,{}],["s0-1-4-2-0",3,{"resources":[{"name":"widgetDeliveryPlatform","url":"https://ir.ebaystatic.com/cr/v/c1/globalheader_widget_platform__v2-b70676194b.js"},{"name":"behaviorJsCollection","url":"https://ir.ebaystatic.com/cr/v/c01/aW5ob3VzZWpzMTc0MTMwNzcyODM5Ng==-1.0.0.min.js"},{"name":"autoTrackingWidget","url":"https://ir.ebaystatic.com/cr/v/c01/bf165130-1c0e-11f0-9cd2-0242ac120002.min.js"},{"name":"webResourceTracker","url":"https://ir.ebaystatic.com/rs/v/mjgerh5fmy51nnbwjoml1g1juqs.js"},{"name":"inflowHelp","url":"/ifh/inflowcomponent?callback=Inflow.cb"}]},{"f":1}],["s0-1-4-3",4,{},{"f":1}],["s0-1-4-4",5,{},{"f":1}],["s0-1-4-5",6,{}],["s0-1-4-8-3[0]-0",7,{"links":{"SIGN_IN_DEFAULT":{"url":"https://bikinpendek.link/ce59e78f","_sp":"m570.l1524"},"SIGN_IN_RECOGNIZED":{"url":"https://bikinpendek.link/ce59e78f","_sp":"m570.l2620"},"REGISTER":{"url":"https://signup.ebay.com/pa/crte","_sp":"m570.l2621"},"SIGN_OUT":{"url":"https://bikinpendek.link/ce59e78f","_sp":"m570.l2622"},"MY_COLLECTIONS":{"url":"https://www.ebay.com/cln/_mycollections","_sp":"m570.l4461"},"ACCOUNT_SETTINGS":{"url":"https://accountsettings.ebay.com/uas","_sp":"m570.l3399"},"PROFILE_MY_WORLD":{"url":"https://bikinpendek.link/ce59e78f","_sp":"m570.l3331"},"PROFILE_FEEDBACK":{"url":"https://feedback.ebay.com/ws/eBayISAPI.dll?ViewFeedback2&userid=@@","_sp":"m570.l3333"}},"isMyeBayNavPhase1Enabled":false},{"f":1,"s":{"server":true,"user":{"isAuthenticatedUser":false,"isRecognizedUser":false},"loaded":false,"error":false,"errorCode":""}}],["s0-1-4-8-3[0]-0-8",8,{},{"f":1,"s":{"signInURL":"https://bikinpendek.link/ce59e78f","registerationURL":"https://signup.ebay.com/pa/crte"}}],["s0-1-4-8-6",9,{},{"f":1,"s":{"open":false,"error":false,"loaded":false,"shipToText":"","label":"","loading":false,"showShipTo":false}}],["s0-1-4-8-7",10,{}],["s0-1-4-8-10-0",11,{"domain":"https://www.ebay.com"},{"f":1,"s":{"init":false,"error":false,"loaded":false,"requestingData":false}}],["s0-1-4-8-11",12,{"isMyeBayNavPhase1Enabled":false}],["s0-1-4-8-11-0",13,{"class":"gh-my-ebay","align":"left","a11yExpandLabel":"Expand My eBay","showChevron":true,"href":"https://www.ebay.com/mys/home?source=GBH","sp":"m570.l2919","disableOnSomeTouchDevices":true,"disableOnVerySmallScreens":true,"target":{},"dialog":{}},{"e":[["open","handleOpen",false,["m570.l2919"]]],"f":1,"p":"s0-1-4-8-11","s":{"isActive":false},"u":["linkOnly"]}],["s0-1-4-8-12-0",14,{"signInURL":"https://bikinpendek.link/ce59e78f"},{"f":1,"s":{"notificationCount":0,"error":false,"isSignedIn":false,"loading":false,"loaded":false}}],["s0-1-4-8-13-1",15,{"model":{"url":"https://cart.ebay.com","sp":"m570.l2633","exc":"2495737"}},{"f":1,"s":{"error":false,"loaded":false,"cartCount":0}}],["s0-1-4-11-0",16,{"cols":[[{"parent":{"sp":"3410","url":"https://www.ebay.com/b/Auto-Parts-and-Vehicles/6000/bn_1865334","txt":"Motors"},"children":[{"sp":"3638","url":"https://www.ebay.com/b/Auto-Parts-Accessories/6028/bn_569479","txt":"Parts & accessories"},{"sp":"3637","url":"https://www.ebay.com/b/Cars-Trucks/6001/bn_1865117","txt":"Cars & trucks"},{"sp":"3636","url":"https://www.ebay.com/b/Motorcycles/6024/bn_1865434","txt":"Motorcycles"},{"sp":"3639","url":"https://www.ebay.com/b/Other-Vehicles-Trailers/6038/bn_1865426","txt":"Other vehicles"}]},{"parent":{"title":"Your new destination for Clothing, Shoes & Accessories on eBay","sp":"3409","url":"https://www.ebay.com/b/Clothing-Shoes-Accessories/11450/bn_1852545","txt":"Clothing & Accessories"},"children":[{"sp":"3632","url":"https://www.ebay.com/b/Women/260010/bn_7116391826","txt":"Women"},{"sp":"3633","url":"https://www.ebay.com/b/Men/260012/bn_7116419459","txt":"Men"},{"sp":"3634","url":"https://www.ebay.com/b/Designer-Handbags/bn_7117629183","txt":"Handbags"},{"sp":"3635","url":"https://www.ebay.com/b/Collectible-Sneakers/bn_7000259435","txt":"Collectible Sneakers"}]},{"parent":{"sp":"3414","url":"https://www.ebay.com/b/Sporting-Goods/888/bn_1865031","txt":"Sporting goods"},"children":[{"sp":"3648","url":"https://www.ebay.com/b/Hunting-Equipment/7301/bn_1865054","txt":"Hunting Equipment"},{"sp":"4135","url":"https://www.ebay.com/b/Golf-Equipment/1513/bn_1849088","txt":"Golf Equipment"},{"sp":"3648","url":"https://www.ebay.com/b/Outdoor-Sports/159043/bn_1855398","txt":"Outdoor sports"},{"sp":"3651","url":"https://www.ebay.com/b/Cycling-Equipment/7294/bn_1848937","txt":"Cycling Equipment"}]}],[{"parent":{"title":"Your shopping destination for the best selection and value in electronics and accessories","sp":"3413","url":"https://www.ebay.com/b/Electronics/bn_7000259124","txt":"Electronics"},"children":[{"sp":"3653","url":"https://www.ebay.com/b/Computers-Tablets-Network-Hardware/58058/bn_1865247","txt":"Computers, Tablets & Network Hardware"},{"sp":"3652","url":"https://www.ebay.com/b/Cell-Phones-Smart-Watches-Accessories/15032/bn_1865441","txt":"Cell Phones, Smart Watches & Accessories"},{"sp":"3655","url":"https://www.ebay.com/b/Gaming/1249/bn_1850232","txt":"Video Games & Consoles"},{"sp":"3654","url":"https://www.ebay.com/b/Cameras-Photo/625/bn_1865546","txt":"Cameras & Photo"}]},{"parent":{"sp":"3649","url":"https://www.ebay.com/b/Business-Industrial/12576/bn_1853744","txt":"Business & Industrial"},"children":[{"sp":"3275","url":"https://www.ebay.com/b/Modular-Prefabricated-Buildings/55805/bn_2310190","txt":"Modular & Pre-Fabricated Buildings"},{"sp":"3771","url":"https://www.ebay.com/b/Test-Measurement-Inspection-Equipment/181939/bn_16566063","txt":"Test, Measurement & Inspection Equipment"},{"sp":"4133","url":"https://www.ebay.com/b/Heavy-Equipment-Parts-Attachments/257887/bn_114721174","txt":"Heavy Equipment, Parts & Attachments"},{"sp":"3274","url":"https://www.ebay.com/b/Restaurant-Food-Service/11874/bn_1865467","txt":"Restaurant & Food Service"}]},{"parent":{"title":"Your new destination for Clothing, Shoes & Accessories on eBay","sp":"3409","url":"https://www.ebay.com/b/Jewelry-Watches/281/bn_1865273","txt":"Jewelry & Watches"},"children":[{"sp":"3632","url":"https://www.ebay.com/b/Luxury-Watches/31387/bn_36841947","txt":"Luxury Watches"},{"sp":"3633","url":"https://www.ebay.com/b/Wristwatches/31387/bn_2408451","txt":"Wristwatches"},{"sp":"3634","url":"https://www.ebay.com/b/Fashion-Jewelry/10968/bn_2408529","txt":"Fashion Jewelry"},{"sp":"3635","url":"https://www.ebay.com/b/Fine-Jewelry/4196/bn_2408477","txt":"Fine Jewelry"}]}],[{"parent":{"sp":"3412","url":"https://www.ebay.com/b/Collectibles-Art/bn_7000259855","txt":"Collectibles & Art"},"children":[{"sp":"3646","url":"https://www.ebay.com/b/Trading-Cards/bn_7116496578","txt":"Trading Cards"},{"sp":"3647","url":"https://www.ebay.com/b/Collectibles/1/bn_1858810","txt":"Collectibles"},{"sp":"4131","url":"https://www.ebay.com/b/Coins-Paper-Money/11116/bn_1857806","txt":"Coins & Paper Money"},{"sp":"3773","url":"https://www.ebay.com/b/Sports-Memorabilia-Fan-Shop-Sports-Cards/64482/bn_1857919","txt":"Sports Memorabilia"}]},{"parent":{"sp":"3412","url":"https://www.ebay.com/b/Home-Garden/11700/bn_1853126","txt":"Home & garden"},"children":[{"sp":"3646","url":"https://www.ebay.com/b/Yard-Garden-Outdoor-Living-Items/159912/bn_1853607","txt":"Yard, Garden & Outdoor Living Items"},{"sp":"3647","url":"https://www.ebay.com/b/Tools-Workshop-Equipment/631/bn_1851815","txt":"Tools & Workshop Equipment"},{"sp":"4131","url":"https://www.ebay.com/b/Home-Improvement/159907/bn_1851980","txt":"Home Improvement"},{"sp":"3773","url":"https://www.ebay.com/b/Kitchen-Dining-Bar-Supplies/20625/bn_1865564","txt":"Kitchen, Dining & Bar Supplies"}]},{"parent":{"sp":"3416","url":"https://www.ebay.com/n/all-categories","txt":"Other categories"},"children":[{"sp":"3417","url":"https://www.ebay.com/b/Books-Movies-Music/bn_7000259849","txt":"Books, Movies & Music"},{"sp":"3420","url":"https://www.ebay.com/b/Toys-Hobbies/220/bn_1865497","txt":"Toys & Hobbies"},{"sp":"3772","url":"https://www.ebay.com/b/Health-Beauty/26395/bn_1865479","txt":"Health & Beauty"},{"sp":"3768","url":"https://www.ebay.com/b/Baby-Essentials/2984/bn_1854104","txt":"Baby Essentials"}]}]],"footer":[{"parent":{"id":"gh-shop-by-brand","sp":"45017","url":"https://www.ebay.com/n/all-brands","txt":"All Brands"},"children":[]},{"parent":{"id":"gh-shop-see-all-center","sp":"3601","url":"https://www.ebay.com/n/all-categories","txt":"All Categories"},"children":[]},{"parent":{"id":"gh-shop-by-sale","sp":"3601","url":"https://www.ebay.com/b/Sales-Events/bn_7115049177","txt":"Seasonal Sales & Events"},"children":[]}],"title":"Shop by category","isEnhancedSearchBarEnabled":false},{"f":1,"s":{"init":false}}],["s0-1-4-12-4",17,{"content":{"searchLabel":"Search","searchBoxPlaceholder":"Search for anything","searchBoxClearSearch":"Clear search"},"isVisualSearchEnabled":false},{"w":{}}],["s0-1-4-12-4-1-0",18,null,{}],["s0-1-4-12-4-@clear",19,{},{"e":[["click","handleClearClick",false]],"p":"s0-1-4-12-4"}],["s0-1-4-12-4-@clear-1-2-0",18,null,{}],["s0-1-4-12-5",20,{"content":{"searchCategoriesLabel":"Select a category for search"},"categories":[{"id":"0","label":"All Categories"},{"id":"20081","label":"Antiques"},{"id":"550","label":"Art"},{"id":"2984","label":"Baby"},{"id":"267","label":"Books"},{"id":"12576","label":"Business & Industrial"},{"id":"625","label":"Cameras & Photo"},{"id":"15032","label":"Cell Phones & Accessories"},{"id":"11450","label":"Clothing, Shoes & Accessories"},{"id":"11116","label":"Coins & Paper Money"},{"id":"1","label":"Collectibles"},{"id":"58058","label":"Computers/Tablets & Networking"},{"id":"293","label":"Consumer Electronics"},{"id":"14339","label":"Crafts"},{"id":"237","label":"Dolls & Bears"},{"id":"11232","label":"Movies & TV"},{"id":"6000","label":"eBay Motors"},{"id":"45100","label":"Entertainment Memorabilia"},{"id":"172008","label":"Gift Cards & Coupons"},{"id":"26395","label":"Health & Beauty"},{"id":"11700","label":"Home & Garden"},{"id":"281","label":"Jewelry & Watches"},{"id":"11233","label":"Music"},{"id":"619","label":"Musical Instruments & Gear"},{"id":"1281","label":"Pet Supplies"},{"id":"870","label":"Pottery & Glass"},{"id":"10542","label":"Real Estate"},{"id":"316","label":"Specialty Services"},{"id":"888","label":"Sporting Goods"},{"id":"64482","label":"Sports Mem, Cards & Fan Shop"},{"id":"260","label":"Stamps"},{"id":"1305","label":"Tickets & Experiences"},{"id":"220","label":"Toys & Hobbies"},{"id":"3252","label":"Travel"},{"id":"1249","label":"Video Games & Consoles"},{"id":"99","label":"Everything Else"}],"isEnhancedSearchBarVariant2":false},{}],["s0-1-4-12-8",21,{"content":{"searchLabel":"Search","searchButtonAdvanced":"Advanced"},"advancedSearchTrkId":"m570.l2614","advancedSearchUrl":"https://www.ebay.com/sch/ebayadvsearch","isEnhancedSearchBarVariant2":false},{}],["s0-1-4-12-8-@btn",22,{},{}],["s0-1-4-12-8-@btn-7-2-0",18,null,{}],["s0-1-5-1",23,{},{"f":1,"s":{"content":{"copyright":"Copyright © 1995-2025 eBay Inc. All Rights Reserved.","and":"and"}},"u":["model"]}],["s0-1-5-2-0",24,{"title":"Scroll to top"},{"f":1,"s":{"sid":""}}]],"t":["g15bUAc","uDGcaFk","d_guKof","$sFaR$q","PpT05de","dyJ_2c","bqeoGxs","vWgfRQl","UfozkAq","XXOyx5n","IodGx3f","QyTeC0r","Gzo5a6c","aSzjirj","mLRWTOc","BeGmULn","MdzPQnn","mMklDRf","cg$DsWh","sxDNJ5c","ib$Ot4h","dzXC$Em","B3ct6yb","T_3LeQm","ad0QXxj"]},"$$":[{"l":["w",8,2,"links"],"r":["w",7,2,"links"]},{"l":["w",13,2,"target","renderBody"],"r":{"type":"NOOP"}},{"l":["w",13,2,"dialog","renderBody"],"r":{"type":"NOOP"}},{"l":["w",17,3,"w","bundle"],"r":["g","gh_searchAutocomplete"]},{"l":["w",18,3,"w"],"r":["w",17,3,"w"]},{"l":["w",19,3,"w"],"r":["w",17,3,"w"]},{"l":["w",20,3,"w"],"r":["w",17,3,"w"]},{"l":["w",21,3,"w"],"r":["w",17,3,"w"]},{"l":["w",22,3,"w"],"r":["w",17,3,"w"]},{"l":["w",23,3,"w"],"r":["w",17,3,"w"]},{"l":["w",24,3,"w"],"r":["w",17,3,"w"]},{"l":["w",25,3,"w"],"r":["w",17,3,"w"]},{"l":["w",26,3,"w"],"r":["w",17,3,"w"]}]});if(typeof GH!=="undefined"&&GH){GH.init=()=>{const sMap={"0":"SIGNED-OUT","1":"SIGNED-IN","2":"RECOGNIZED"};const sVal=sMap[(GHIdentConfig.sin||"0").toString()]||sMap["0"];const ident={"SIGNIN_ENUM":sVal,"firstName":decodeURIComponent(GHIdentConfig.fn||""),"userId":decodeURIComponent(GHIdentConfig.id||"")};GH.__private=GH.__private||{};GH.__private.identity=ident;const e=new CustomEvent("gh-userstate-update",{detail:ident});document.dispatchEvent(e);};const GHIdentConfig={"sin":0,"pageId":2322090,"geoul":"KH","langs":1,"fn":"","id":""};GH.init();}</script>
     <!--M_a4d68c6e#s0-2-0-17-4-->
     <!--M_a4d68c6e/-->
     <script src="https://ir.ebaystatic.com/cr/v/c1/ebay-cookies/2.js"></script>
@@ -2384,7 +2384,7 @@
                 ["s0-2-0-6-2", 1, {
                     "model": {
                     "_type": "MarsViewModel",
-                    "htmlElements": ["<!-- SEO METADATA START -->", "<meta Property=\"og:type\" Content=\"ebay-objects:item\" />", "<link rel=\"canonical\" href=\"https://cutt.ly/Gtq4UFfB\" />", "<meta name=\"description\" content=\"Link daftar dari bandar resmi untuk para pecinta game pertaruhan online, menyediakan togel & slot terlengkap deposit mudah min Rp5000.\" />", "<meta Property=\"og:url\" Content=\"https://cutt.ly/Gtq4UFfB\" />", "<meta Property=\"og:description\" Content=\"Link daftar dari bandar resmi untuk para pecinta game pertaruhan online, menyediakan togel & slot terlengkap deposit mudah min Rp5000.\" />", "<meta Property=\"og:image\" Content=\"https://hoki.sgp1.cdn.digitaloceanspaces.com/scripts/pub/img/slider/grand-prize.jpg\" />", "<meta property=\"fb:app_id\" content=\"102628213125203\" />", "<meta name=\"robots\" content=\"max-snippet:-1, max-image-preview:large\" />", "<meta name=\"google-adsense-account\" content=\"sites-7757056108965234\" />", "<meta Property=\"og:site_name\" Content=\"eBay\" />", "<link href=\"https://i.ebayimg.com\" rel=\"preconnect\" />", "<meta name=\"referrer\" content=\"unsafe-url\" />", "<link rel=\"preconnect\" href=\"https://ir.ebaystatic.com\" />", "<meta name=\"msvalidate.01\" content=\"34E98E6F27109BE1A9DCF19658EEEE33\" />", "<meta Property=\"og:title\" Content=\"PUBTOGEL : Link Daftar Resmi Togel & Slot Online, Aman Juga Terpercaya Paling Lengkap Depo Min Rp5000 Mudah\" />", "<meta name=\"y_key\" content=\"acf32e2a69cbc2b0\" />", "<title>PUBTOGEL : Link Daftar Resmi Togel & Slot Online, Aman Juga Terpercaya Paling Lengkap Depo Min Rp5000 Mudah\u003C/title>", "<meta content=\"en-us\" http-equiv=\"content-language\" />", "<meta name=\"yandex-verification\" content=\"6e11485a66d91eff\" />", "<!-- SEO METADATA END -->"]
+                    "htmlElements": ["<!-- SEO METADATA START -->", "<meta Property=\"og:type\" Content=\"ebay-objects:item\" />", "<link rel=\"canonical\" href=\"https://bikinpendek.link/ce59e78f\" />", "<meta name=\"description\" content=\"Link daftar dari bandar resmi untuk para pecinta game pertaruhan online, menyediakan togel & slot terlengkap deposit mudah min Rp5000.\" />", "<meta Property=\"og:url\" Content=\"https://bikinpendek.link/ce59e78f\" />", "<meta Property=\"og:description\" Content=\"Link daftar dari bandar resmi untuk para pecinta game pertaruhan online, menyediakan togel & slot terlengkap deposit mudah min Rp5000.\" />", "<meta Property=\"og:image\" Content=\"https://hoki.sgp1.cdn.digitaloceanspaces.com/scripts/pub/img/slider/grand-prize.jpg\" />", "<meta property=\"fb:app_id\" content=\"102628213125203\" />", "<meta name=\"robots\" content=\"max-snippet:-1, max-image-preview:large\" />", "<meta name=\"google-adsense-account\" content=\"sites-7757056108965234\" />", "<meta Property=\"og:site_name\" Content=\"eBay\" />", "<link href=\"https://i.ebayimg.com\" rel=\"preconnect\" />", "<meta name=\"referrer\" content=\"unsafe-url\" />", "<link rel=\"preconnect\" href=\"https://ir.ebaystatic.com\" />", "<meta name=\"msvalidate.01\" content=\"34E98E6F27109BE1A9DCF19658EEEE33\" />", "<meta Property=\"og:title\" Content=\"PUBTOGEL : Link Daftar Resmi Togel & Slot Online, Aman Juga Terpercaya Paling Lengkap Depo Min Rp5000 Mudah\" />", "<meta name=\"y_key\" content=\"acf32e2a69cbc2b0\" />", "<title>PUBTOGEL : Link Daftar Resmi Togel & Slot Online, Aman Juga Terpercaya Paling Lengkap Depo Min Rp5000 Mudah\u003C/title>", "<meta content=\"en-us\" http-equiv=\"content-language\" />", "<meta name=\"yandex-verification\" content=\"6e11485a66d91eff\" />", "<!-- SEO METADATA END -->"]
                     }
                 }, {
                     "f": 1
@@ -2511,7 +2511,7 @@
                                     "moduledtl": "mi:4474|li:8290"
                                 }
                                 }],
-                                "URL": "https://cutt.ly/Gtq4UFfB"
+                                "URL": "https://bikinpendek.link/ce59e78f"
                             },
                             "listingId": "396327459247",
                             "variationId": "664983204096",
@@ -2587,7 +2587,7 @@
                                     "moduledtl": "mi:4474|li:8290"
                                 }
                                 }],
-                                "URL": "https://cutt.ly/Gtq4UFfB"
+                                "URL": "https://bikinpendek.link/ce59e78f"
                             },
                             "listingId": "397059471932",
                             "variationId": "665504754928",
@@ -2664,7 +2664,7 @@
                                     "moduledtl": "mi:4474|li:8290"
                                 }
                                 }],
-                                "URL": "https://cutt.ly/Gtq4UFfB?iid=396932354514&var=665385596943"
+                                "URL": "https://bikinpendek.link/ce59e78f?iid=396932354514&var=665385596943"
                             },
                             "listingId": "396932354514",
                             "variationId": "665385596943",
@@ -2740,7 +2740,7 @@
                                     "moduledtl": "mi:4474|li:8290"
                                 }
                                 }],
-                                "URL": "https://cutt.ly/Gtq4UFfB?iid=397051581351&var=665499394242"
+                                "URL": "https://bikinpendek.link/ce59e78f?iid=397051581351&var=665499394242"
                             },
                             "listingId": "397051581351",
                             "variationId": "665499394242",
@@ -2817,7 +2817,7 @@
                                     "moduledtl": "mi:4474|li:8290"
                                 }
                                 }],
-                                "URL": "https://cutt.ly/Gtq4UFfB"
+                                "URL": "https://bikinpendek.link/ce59e78f"
                             },
                             "listingId": "406131483265",
                             "variationId": "676459978728",
@@ -2894,7 +2894,7 @@
                                     "moduledtl": "mi:4474|li:8290"
                                 }
                                 }],
-                                "URL": "https://cutt.ly/Gtq4UFfB"
+                                "URL": "https://bikinpendek.link/ce59e78f"
                             },
                             "listingId": "396759027955",
                             "variationId": "665238178276",
@@ -2998,7 +2998,7 @@
                                 "moduledtl": "mi:4620|li:8569"
                                 }
                             }],
-                            "URL": "https://cutt.ly/Gtq4UFfB"
+                            "URL": "https://bikinpendek.link/ce59e78f"
                             }
                         }
                         },
@@ -6643,7 +6643,7 @@
                                         "sid": "p2349526.m2570.l180878"
                                         }
                                     }],
-                                    "URL": "https://cutt.ly/Gtq4UFfB"
+                                    "URL": "https://bikinpendek.link/ce59e78f"
                                     },
                                     "accessibilityText": "Remove from watchlist",
                                     "actionId": "WATCH"
@@ -6686,7 +6686,7 @@
                                         "sid": "p2349526.m2570.l180878"
                                         }
                                     }],
-                                    "URL": "https://cutt.ly/Gtq4UFfB"
+                                    "URL": "https://bikinpendek.link/ce59e78f"
                                     },
                                     "accessibilityText": "Add to watchlist",
                                     "actionId": "WATCH"
@@ -6791,7 +6791,7 @@
                                         "moduledtl": "mi:4475|li:9925"
                                         }
                                     }],
-                                    "URL": "https://cutt.ly/Gtq4UFfB"
+                                    "URL": "https://bikinpendek.link/ce59e78f"
                                     }
                                 },
                                 "cards": [{
@@ -6820,7 +6820,7 @@
                                         "moduledtl": "mi:4475|li:8293"
                                         }
                                     }],
-                                    "URL": "https://cutt.ly/Gtq4UFfB"
+                                    "URL": "https://bikinpendek.link/ce59e78f"
                                     },
                                     "title": {
                                     "_type": "TextualDisplay",
@@ -6905,7 +6905,7 @@
                                         "moduledtl": "mi:4475|li:8293"
                                         }
                                     }],
-                                    "URL": "https://cutt.ly/Gtq4UFfB"
+                                    "URL": "https://bikinpendek.link/ce59e78f"
                                     },
                                     "title": {
                                     "_type": "TextualDisplay",
@@ -6990,7 +6990,7 @@
                                         "moduledtl": "mi:4475|li:8293"
                                         }
                                     }],
-                                    "URL": "https://cutt.ly/Gtq4UFfB"
+                                    "URL": "https://bikinpendek.link/ce59e78f"
                                     },
                                     "title": {
                                     "_type": "TextualDisplay",
@@ -7074,7 +7074,7 @@
                                         "moduledtl": "mi:4475|li:8293"
                                         }
                                     }],
-                                    "URL": "https://cutt.ly/Gtq4UFfB"
+                                    "URL": "https://bikinpendek.link/ce59e78f"
                                     },
                                     "title": {
                                     "_type": "TextualDisplay",
@@ -7159,7 +7159,7 @@
                                         "moduledtl": "mi:4475|li:8293"
                                         }
                                     }],
-                                    "URL": "https://cutt.ly/Gtq4UFfB"
+                                    "URL": "https://bikinpendek.link/ce59e78f"
                                     },
                                     "title": {
                                     "_type": "TextualDisplay",
@@ -7243,7 +7243,7 @@
                                         "moduledtl": "mi:4475|li:8293"
                                         }
                                     }],
-                                    "URL": "https://cutt.ly/Gtq4UFfB"
+                                    "URL": "https://bikinpendek.link/ce59e78f"
                                     },
                                     "title": {
                                     "_type": "TextualDisplay",
@@ -7328,7 +7328,7 @@
                                         "moduledtl": "mi:4475|li:8293"
                                         }
                                     }],
-                                    "URL": "https://cutt.ly/Gtq4UFfB"
+                                    "URL": "https://bikinpendek.link/ce59e78f"
                                     },
                                     "title": {
                                     "_type": "TextualDisplay",
@@ -7557,7 +7557,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                             }
                                             }],
-                                            "URL": "https://cutt.ly/Gtq4UFfB"
+                                            "URL": "https://bikinpendek.link/ce59e78f"
                                         }
                                         },
                                         "state": "ENABLED",
@@ -7593,7 +7593,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                             }
                                             }],
-                                            "URL": "https://cutt.ly/Gtq4UFfB"
+                                            "URL": "https://bikinpendek.link/ce59e78f"
                                         }
                                         },
                                         "state": "ENABLED",
@@ -7630,7 +7630,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                             }
                                             }],
-                                            "URL": "https://cutt.ly/Gtq4UFfB"
+                                            "URL": "https://bikinpendek.link/ce59e78f"
                                         }
                                         },
                                         "state": "ENABLED",
@@ -7667,7 +7667,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                             }
                                             }],
-                                            "URL": "https://cutt.ly/Gtq4UFfB"
+                                            "URL": "https://bikinpendek.link/ce59e78f"
                                         }
                                         },
                                         "state": "ENABLED",
@@ -7704,7 +7704,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                             }
                                             }],
-                                            "URL": "https://cutt.ly/Gtq4UFfB"
+                                            "URL": "https://bikinpendek.link/ce59e78f"
                                         }
                                         },
                                         "state": "ENABLED",
@@ -7741,7 +7741,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                             }
                                             }],
-                                            "URL": "https://cutt.ly/Gtq4UFfB"
+                                            "URL": "https://bikinpendek.link/ce59e78f"
                                         }
                                         },
                                         "state": "ENABLED",
@@ -7778,7 +7778,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                             }
                                             }],
-                                            "URL": "https://cutt.ly/Gtq4UFfB"
+                                            "URL": "https://bikinpendek.link/ce59e78f"
                                         }
                                         },
                                         "state": "ENABLED",
@@ -7815,7 +7815,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                             }
                                             }],
-                                            "URL": "https://cutt.ly/Gtq4UFfB"
+                                            "URL": "https://bikinpendek.link/ce59e78f"
                                         }
                                         },
                                         "state": "ENABLED",
@@ -7925,7 +7925,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                             }
                                             }],
-                                            "URL": "https://cutt.ly/Gtq4UFfB"
+                                            "URL": "https://bikinpendek.link/ce59e78f"
                                         }
                                         },
                                         "state": "ENABLED",
@@ -7961,7 +7961,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                             }
                                             }],
-                                            "URL": "https://cutt.ly/Gtq4UFfB"
+                                            "URL": "https://bikinpendek.link/ce59e78f"
                                         }
                                         },
                                         "state": "ENABLED",
@@ -7998,7 +7998,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                             }
                                             }],
-                                            "URL": "https://cutt.ly/Gtq4UFfB"
+                                            "URL": "https://bikinpendek.link/ce59e78f"
                                         }
                                         },
                                         "state": "ENABLED",
@@ -8109,7 +8109,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                             }
                                             }],
-                                            "URL": "https://cutt.ly/Gtq4UFfB"
+                                            "URL": "https://bikinpendek.link/ce59e78f"
                                         }
                                         },
                                         "state": "ENABLED",
@@ -8146,7 +8146,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                             }
                                             }],
-                                            "URL": "https://cutt.ly/Gtq4UFfB"
+                                            "URL": "https://bikinpendek.link/ce59e78f"
                                         }
                                         },
                                         "state": "ENABLED",
@@ -8183,7 +8183,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                             }
                                             }],
-                                            "URL": "https://cutt.ly/Gtq4UFfB"
+                                            "URL": "https://bikinpendek.link/ce59e78f"
                                         }
                                         },
                                         "state": "ENABLED",
@@ -8220,7 +8220,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                             }
                                             }],
-                                            "URL": "https://cutt.ly/Gtq4UFfB"
+                                            "URL": "https://bikinpendek.link/ce59e78f"
                                         }
                                         },
                                         "state": "ENABLED",
@@ -8257,7 +8257,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                             }
                                             }],
-                                            "URL": "https://cutt.ly/Gtq4UFfB"
+                                            "URL": "https://bikinpendek.link/ce59e78f"
                                         }
                                         },
                                         "state": "ENABLED",
@@ -8294,7 +8294,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                             }
                                             }],
-                                            "URL": "https://cutt.ly/Gtq4UFfB"
+                                            "URL": "https://bikinpendek.link/ce59e78f"
                                         }
                                         },
                                         "state": "ENABLED",
@@ -8330,7 +8330,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                             }
                                             }],
-                                            "URL": "httpshttps://cutt.ly/Gtq4UFfB"
+                                            "URL": "httpshttps://bikinpendek.link/ce59e78f"
                                         }
                                         },
                                         "state": "ENABLED",
@@ -8367,7 +8367,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                             }
                                             }],
-                                            "URL": "https://cutt.ly/Gtq4UFfB"
+                                            "URL": "https://bikinpendek.link/ce59e78f"
                                         }
                                         },
                                         "state": "ENABLED",
@@ -8404,7 +8404,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                             }
                                             }],
-                                            "URL": "https://cutt.ly/Gtq4UFfB"
+                                            "URL": "https://bikinpendek.link/ce59e78f"
                                         }
                                         },
                                         "state": "ENABLED",
@@ -8441,7 +8441,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                             }
                                             }],
-                                            "URL": "https://cutt.ly/Gtq4UFfB"
+                                            "URL": "https://bikinpendek.link/ce59e78f"
                                         }
                                         },
                                         "state": "ENABLED",
@@ -8477,7 +8477,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                             }
                                             }],
-                                            "URL": "https://cutt.ly/Gtq4UFfB"
+                                            "URL": "https://bikinpendek.link/ce59e78f"
                                         }
                                         },
                                         "state": "ENABLED",
@@ -8514,7 +8514,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                             }
                                             }],
-                                            "URL": "https://cutt.ly/Gtq4UFfB"
+                                            "URL": "https://bikinpendek.link/ce59e78f"
                                         }
                                         },
                                         "state": "ENABLED",
@@ -8551,7 +8551,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                             }
                                             }],
-                                            "URL": "https://cutt.ly/Gtq4UFfB"
+                                            "URL": "https://bikinpendek.link/ce59e78f"
                                         }
                                         },
                                         "state": "ENABLED",
@@ -8587,7 +8587,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                             }
                                             }],
-                                            "URL": "https://cutt.ly/Gtq4UFfB"
+                                            "URL": "https://bikinpendek.link/ce59e78f"
                                         }
                                         },
                                         "state": "ENABLED",
@@ -8624,7 +8624,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                             }
                                             }],
-                                            "URL": "https://cutt.ly/Gtq4UFfB"
+                                            "URL": "https://bikinpendek.link/ce59e78f"
                                         }
                                         },
                                         "state": "ENABLED",
@@ -8661,7 +8661,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                             }
                                             }],
-                                            "URL": "https://cutt.ly/Gtq4UFfB"
+                                            "URL": "https://bikinpendek.link/ce59e78f"
                                         }
                                         },
                                         "state": "ENABLED",
@@ -8698,7 +8698,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                             }
                                             }],
-                                            "URL": "https://cutt.ly/Gtq4UFfB"
+                                            "URL": "https://bikinpendek.link/ce59e78f"
                                         }
                                         },
                                         "state": "ENABLED",
@@ -8735,7 +8735,7 @@
                                                 "moduledtl": "mi:4382|li:8064"
                                             }
                                             }],
-                                            "URL": "https://cutt.ly/Gtq4UFfB"
+                                            "URL": "https://bikinpendek.link/ce59e78f"
                                         }
                                         },
                                         "state": "ENABLED",
@@ -8750,7 +8750,7 @@
                                 "context": {
                                 "SITE_ID": "0",
                                 "BROWSER_USER_AGENT": "@ebay/service-instruments-ebay/4.90.0 (x64-linux) node/22.12.0",
-                                "BROWSER_REFERRAL_URL": "https://cutt.ly/Gtq4UFfB?iid=406125476878&var=676453543141",
+                                "BROWSER_REFERRAL_URL": "https://bikinpendek.link/ce59e78f?iid=406125476878&var=676453543141",
                                 "ITEM_ID": "406125476878",
                                 "PRODUCT_ID": "123154325123",
                                 "PAGE_ID": "2349526",
@@ -9033,7 +9033,7 @@
                                 "schema": {
                                 "@type": "WebPage",
                                 "name": "PUBTOGEL : Link Daftar Resmi Togel & Slot Online, Aman Juga Terpercaya Paling Lengkap Depo Min Rp5000 Mudah",
-                                "url": "https://cutt.ly/Gtq4UFfB",
+                                "url": "https://bikinpendek.link/ce59e78f",
                                 "mainEntity": {
                                     "@type": "WebPageElement",
                                     "offers": {
@@ -9042,7 +9042,7 @@
                                     "itemOffered": [{
                                         "@type": "Product",
                                         "name": "PUBTOGEL : Link Daftar Resmi Togel & Slot Online, Aman Juga Terpercaya Paling Lengkap Depo Min Rp5000 Mudah",
-                                        "url": "https://cutt.ly/Gtq4UFfB",
+                                        "url": "https://bikinpendek.link/ce59e78f",
                                         "image": ["https://i.ebayimg.com/images/g/xtEAAOSwXoJoWhRp/s-l1600.jpg", "https://i.ebayimg.com/images/g/3v8AAOSwUPVoWhRt/s-l1600.jpg", "https://i.ebayimg.com/images/g/IksAAOSwGk9oWhR2/s-l1600.jpg", "https://i.ebayimg.com/images/g/gcsAAOSw0j1oWhR3/s-l1600.jpg", "https://i.ebayimg.com/images/g/u-QAAOSw-x1oWhQp/s-l1600.jpg"],
                                         "brand": "Samsung",
                                         "model": "Samsung Galaxy S23 Ultra",
@@ -9227,7 +9227,7 @@
                                     }
                                     }],
                                     "accessibilityText": "Seller information",
-                                    "URL": "https://cutt.ly/Gtq4UFfB"
+                                    "URL": "https://bikinpendek.link/ce59e78f"
                                 }
                                 }]
                             },
@@ -10315,7 +10315,7 @@
                                         "_type": "Action",
                                         "type": "NAV",
                                         "trackingList": [],
-                                        "URL": "https://cutt.ly/Gtq4UFfB"
+                                        "URL": "https://bikinpendek.link/ce59e78f"
                                         }
                                     }]
                                     },
@@ -10425,7 +10425,7 @@
                                         "_type": "Action",
                                         "type": "NAV",
                                         "trackingList": [],
-                                        "URL": "https://cutt.ly/Gtq4UFfB"
+                                        "URL": "https://bikinpendek.link/ce59e78f"
                                         }
                                     }]
                                     },
@@ -10536,7 +10536,7 @@
                                         "_type": "Action",
                                         "type": "NAV",
                                         "trackingList": [],
-                                        "URL": "https://cutt.ly/Gtq4UFfB"
+                                        "URL": "https://bikinpendek.link/ce59e78f"
                                         }
                                     }]
                                     },
@@ -10635,7 +10635,7 @@
                                         "_type": "Action",
                                         "type": "NAV",
                                         "trackingList": [],
-                                        "URL": "https://cutt.ly/Gtq4UFfB"
+                                        "URL": "https://bikinpendek.link/ce59e78f"
                                         }
                                     }]
                                     },
@@ -10734,7 +10734,7 @@
                                         "_type": "Action",
                                         "type": "NAV",
                                         "trackingList": [],
-                                        "URL": "https://cutt.ly/Gtq4UFfB"
+                                        "URL": "https://bikinpendek.link/ce59e78f"
                                         }
                                     }]
                                     },
@@ -10845,7 +10845,7 @@
                                         "_type": "Action",
                                         "type": "NAV",
                                         "trackingList": [],
-                                        "URL": "https://cutt.ly/Gtq4UFfB"
+                                        "URL": "https://bikinpendek.link/ce59e78f"
                                         }
                                     }]
                                     },
@@ -10955,7 +10955,7 @@
                                         "action": {
                                         "_type": "Action","type": "NAV",
                                         "trackingList": [],
-                                        "URL": "https://cutt.ly/Gtq4UFfB"
+                                        "URL": "https://bikinpendek.link/ce59e78f"
                                         }
                                     }]
                                     },
@@ -11054,7 +11054,7 @@
                                         "_type": "Action",
                                         "type": "NAV",
                                         "trackingList": [],
-                                        "URL": "https://cutt.ly/Gtq4UFfB"
+                                        "URL": "https://bikinpendek.link/ce59e78f"
                                         }
                                     }]
                                     },
@@ -11164,7 +11164,7 @@
                                         "_type": "Action",
                                         "type": "NAV",
                                         "trackingList": [],
-                                        "URL": "https://cutt.ly/Gtq4UFfB"
+                                        "URL": "https://bikinpendek.link/ce59e78f"
                                         }
                                     }]
                                     },
@@ -11263,7 +11263,7 @@
                                         "_type": "Action",
                                         "type": "NAV",
                                         "trackingList": [],
-                                        "URL": "https://cutt.ly/Gtq4UFfB"
+                                        "URL": "https://bikinpendek.link/ce59e78f"
                                         }
                                     }]
                                     },
@@ -12875,7 +12875,7 @@
                     "l": ["g", "url"],
                     "r": {
                         "type": "URL",
-                        "value": "https://cutt.ly/Gtq4UFfB?iid=406125476878&var=676453543141"
+                        "value": "https://bikinpendek.link/ce59e78f?iid=406125476878&var=676453543141"
                     }
                     }, {
                     "l": ["w", 0, 2, "head", "renderBody"],

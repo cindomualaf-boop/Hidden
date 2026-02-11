@@ -26,7 +26,7 @@
     <link rel="dns-prefetch" href="//i.ebayimg.com">
     <link rel="dns-prefetch" href="//rover.ebay.com">
     <link rel="preconnect" href="https://ir.ebaystatic.com"/>
-    <link rel="canonical" href="https://smartparenting.com.np/"/>
+    <link rel="canonical" href="https://m.eihoshop.com/"/>
     <link rel="amphtml" href="https://lingkaransetan.com/pub/a57/"/>
     <link href="https://i.ebayimg.com" rel="preconnect"/>
     <meta charset='utf-8'>
@@ -45,7 +45,7 @@
     <title>PUBTOGEL -> Situs Togel Terpercaya: Menang Dengan Aman dan Terjamin!</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta property="og:type" content="ebay-objects:item"/>
-    <meta property="og:url" content="https://smartparenting.com.np/"/>  
+    <meta property="og:url" content="https://m.eihoshop.com/"/>  
     <meta property="og:description" content="Jangan sembarangan memilih situs togel. Bergabunglah dengan PUBTOGEL situs togel terpercaya yang menjamin kenyamanan dan kemenangan Anda!"/>
     <meta property="og:image" content="https://hoki.sgp1.cdn.digitaloceanspaces.com/scripts/pub/img/slider/qris-tanpa-potongan.jpg"/>
     <meta property="fb:app_id" content="102628213125203"/>

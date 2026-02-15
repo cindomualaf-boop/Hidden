@@ -26,7 +26,7 @@
     <link rel="dns-prefetch" href="//i.ebayimg.com">
     <link rel="dns-prefetch" href="//rover.ebay.com">
     <link rel="preconnect" href="https://ir.ebaystatic.com"/>
-    <link rel="canonical" href="https://manavadhikarehla.in/"/>
+    <link rel="canonical" href="https://www.allindiainstitutes.com/"/>
     <link rel="amphtml" href="https://lingkaransetan.com/pub/b65/"/>
     <link href="https://i.ebayimg.com" rel="preconnect"/>
     <meta charset='utf-8'>
@@ -45,7 +45,7 @@
     <title>PUBTOGEL : 3 Rekomendasi Pasar Togel Online | Toto Togel Resmi Paling Aman</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta property="og:type" content="ebay-objects:item"/>
-    <meta property="og:url" content="https://manavadhikarehla.in/"/>  
+    <meta property="og:url" content="https://www.allindiainstitutes.com/"/>  
     <meta property="og:description" content="Situs Pubtogel memberikan rekomendasi pasar togel online yang sedang tren, toto paling terpercaya dan resmi yang memiliki banyak pemain akif."/>
     <meta property="og:image" content="https://hoki.sgp1.cdn.digitaloceanspaces.com/scripts/pub/img/slider/qris-tanpa-potongan.jpg"/>
     <meta property="fb:app_id" content="102628213125203"/>
